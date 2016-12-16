@@ -1,15 +1,15 @@
 ---
 inFeed: false
 description: 'Introduction to Robotics: Bee-Bot®: – level 1'
-dateModified: '2016-12-16T02:37:11.847Z'
-datePublished: '2016-12-16T02:37:13.098Z'
+dateModified: '2016-12-16T02:37:43.826Z'
+datePublished: '2016-12-16T02:37:44.488Z'
 title: 'Introduction to Robotics: Bee-Bot®: – levels 1 & 2'
 author: []
 publisher: {}
 via: {}
 hasPage: true
 starred: false
-datePublishedOriginal: '2016-12-16T02:37:13.098Z'
+datePublishedOriginal: '2016-12-16T02:37:43.079Z'
 sourcePath: _posts/2016-12-16-introduction-to-robotics-bee-botr-levels-1-and-2.md
 url: introduction-to-robotics-bee-botr-levels-1-and-2/index.html
 _type: Blurb
@@ -28,6 +28,8 @@ _type: Blurb
 **Εργαστήριο "Αρχιμήδης 1" / 11:00 -- 13:00**
 
 **Εργαστήριο "Πυθαγόρας 1" / 17:00 -- 19:00**
+
+---
 
 **Introduction to Robotics: Bee-Bot(r): -- level 2**
 
