@@ -1,9 +1,9 @@
 ---
 inFeed: true
-description: '     Ερμού 24α - ΜΑΡΚΟΠΟΥΛΟ 19003'
-dateModified: '2016-12-16T02:21:05.123Z'
-datePublished: '2016-12-16T02:21:06.504Z'
-title: Learning Ways Hellas - Tomatis Hellas
+description: Ψυχοπαιδαγωγικό Κέντρο
+dateModified: '2016-12-16T02:26:03.517Z'
+datePublished: '2016-12-16T02:26:04.153Z'
+title: ''
 author: []
 publisher: {}
 via: {}
@@ -13,7 +13,9 @@ datePublishedOriginal: '2016-12-16T01:59:29.922Z'
 _type: Blurb
 
 ---
-![Ψ&upsi;χοπαιδαγωγικό Κέντρο](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d29466f-c3c7-4b67-a27b-f0b73da38466.gif)
+Ψυχοπαιδαγωγικό Κέντρο
+
+Learning Ways Hellas - Tomatis Hellas
 
 Ερμού 24α - ΜΑΡΚΟΠΟΥΛΟ 19003
 
