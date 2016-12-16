@@ -1,0 +1,42 @@
+typography_spectrum: 0.11072835870824828
+color:
+  brandStrength: 0.18839870807133835
+  lightness: 0.23747846668853545
+  saturation: 0.23284812881122574
+  rhythmicContrast: 0.2784374965731018
+  brandColors:
+    - '#FF6600'
+    - '#C13B00'
+    - '#5E6D70'
+    - '#424E4F'
+    - '#1B1D1E'
+github: true
+opengraph:
+  appId: '@robotakiahellas'
+layout_spectrum: 0.33769515878677664
+author:
+  email: kalostypi@icloud.com
+  name: Learning Ways Hellas - Tomatis Hellas
+  url: ''
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8722394b-fd91-4b5d-8ec9-6e76cfb8b0b9.gif
+name: robotakiahellas.com
+url: 'http://robotakiahellas.com'
+navigation:
+  - name: Τι είναι Ρομποτική;
+    id: 13188d35-36f5-402c-9d1c-ab08fd3e917d
+    type: content
+  - name: Εργαστήρια Ρομποτικής για παιδιά
+    id: b94b0846-86fa-491e-92ae-03eefe7fe98b
+    type: content
+  - name: Δημιουργική Μάθηση
+    id: 74a5f10d-2b18-4408-85ee-fc4286cd5f4d
+    type: content
+  - name: Εργαστήρια Ρομποτικής Bee-Bot®
+    id: 4a2ea5c6-93ca-43c0-812e-595affce3bd0
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a49a115-3bc4-43bd-b763-df295b6a7909.gif
+title: ROBOTάκια   HELLAS
+content: []
+description: Early Learning Robotics
