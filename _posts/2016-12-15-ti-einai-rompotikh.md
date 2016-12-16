@@ -1,27 +1,19 @@
 ---
-inFeed: false
-description: Τι είναι ρομποτική;
-dateModified: '2016-12-16T02:21:05.123Z'
-datePublished: '2016-12-16T02:21:06.503Z'
-title: ''
+inFeed: true
+description: ''
+dateModified: '2016-12-16T02:27:23.202Z'
+datePublished: '2016-12-16T02:27:23.928Z'
+title: Τι είναι ρομποτική;
 author: []
 publisher: {}
 via: {}
-hasPage: true
 sourcePath: _posts/2016-12-15-ti-einai-rompotikh.md
+hasPage: false
 starred: false
-datePublishedOriginal: '2016-12-16T00:59:53.872Z'
-url: ti-einai-rompotikh/index.html
+datePublishedOriginal: '2016-12-16T00:59:37.861Z'
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c3cbd35-a3e4-469d-9788-be241ec3a66a.gif)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6be97a1f-6885-41aa-b4cb-d9a9cac2ca88.gif)
 
-Τι είναι ρομποτική;
-
----
-
-Η Ρομποτική είναι ο κλάδος της επιστήμης που μελετά τις μηχανές εκείνες που μπορούν να αντικαταστήσουν τον άνθρωπο στην εκτέλεση μιας εργασίας, η οποία συνδυάζει τη φυσική δραστηριότητα, με τη διαδικασία λήψης αποφάσεων.
-
-Η τρέχουσα χρήση των ρομπότ βρίσκεται στη βιομηχανία, η οποία αποτελεί έναν αναπτυγμένο και ώριμο τομέα εφαρμογής της ρομποτικής τεχνολογίας.  
-Σημαντικοί τομείς εφαρμογής της ρομποτικής τεχνολογίας είναι η εξερεύνηση του διαστήματος, η ιατρική, οι αγροτικές εφαρμογές, η έρευνα και διάσωση, κ.ά.
+## Τι είναι ρομποτική;
