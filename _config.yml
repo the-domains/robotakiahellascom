@@ -1,8 +1,22 @@
-typography_spectrum: 0.11072835870824828
+title: ROBOTάκια   HELLAS
+content: []
+github: true
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: Early Learning Robotics
 color:
-  brandStrength: 0.18839870807133835
-  lightness: 0.23747846668853545
-  saturation: 0.23284812881122574
+  saturation: 0.2328481288112257
+  brandStrength: 0.1883987080713383
   rhythmicContrast: 0.2784374965731018
   brandColors:
     - '#FF6600'
@@ -10,18 +24,7 @@ color:
     - '#5E6D70'
     - '#424E4F'
     - '#1B1D1E'
-github: true
-opengraph:
-  appId: '@robotakiahellas'
-layout_spectrum: 0.33769515878677664
-author:
-  email: kalostypi@icloud.com
-  name: Learning Ways Hellas - Tomatis Hellas
-  url: ''
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8722394b-fd91-4b5d-8ec9-6e76cfb8b0b9.gif
-name: robotakiahellas.com
-url: 'http://robotakiahellas.com'
+  lightness: 0.2374784666885355
 navigation:
   - name: Τι είναι Ρομποτική;
     id: 13188d35-36f5-402c-9d1c-ab08fd3e917d
@@ -37,6 +40,15 @@ navigation:
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a49a115-3bc4-43bd-b763-df295b6a7909.gif
-title: ROBOTάκια   HELLAS
-content: []
-description: Early Learning Robotics
+author:
+  email: kalostypi@icloud.com
+  name: Learning Ways Hellas - Tomatis Hellas
+  url: ''
+name: robotakiahellas.com
+opengraph:
+  appId: '@robotakiahellas'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8722394b-fd91-4b5d-8ec9-6e76cfb8b0b9.gif
+typography_spectrum: 0.5059737
+layout_spectrum: 0.8966547
+url: 'http://robotakiahellas.com'
