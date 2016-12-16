@@ -1,16 +1,16 @@
 ---
 inFeed: false
 description: 'Introduction to Robotics: Bee-Bot®: – level 1'
-dateModified: '2016-12-16T02:37:43.826Z'
-datePublished: '2016-12-16T02:37:44.488Z'
+dateModified: '2016-12-16T02:38:21.244Z'
+datePublished: '2016-12-16T02:38:23.486Z'
 title: 'Introduction to Robotics: Bee-Bot®: – levels 1 & 2'
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2016-12-16-introduction-to-robotics-bee-botr-levels-1-and-2.md
 starred: false
 datePublishedOriginal: '2016-12-16T02:37:43.079Z'
-sourcePath: _posts/2016-12-16-introduction-to-robotics-bee-botr-levels-1-and-2.md
 url: introduction-to-robotics-bee-botr-levels-1-and-2/index.html
 _type: Blurb
 
