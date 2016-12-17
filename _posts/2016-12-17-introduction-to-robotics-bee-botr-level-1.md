@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2016-12-17T01:19:34.485Z'
-datePublished: '2016-12-17T01:19:36.099Z'
+dateModified: '2016-12-17T01:22:43.092Z'
+datePublished: '2016-12-17T01:22:43.802Z'
 title: Πρόγραμμα Εργαστηρίων
 author: []
 publisher: {}
@@ -56,3 +56,5 @@ _type: Blurb
 ---
 
 ---
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d6cd8de-948c-4e62-8a6c-75dc336a9ef7.jpg)
