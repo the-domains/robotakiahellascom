@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: ROBOTάκια   HELLAS
-dateModified: '2016-12-17T12:24:20.195Z'
-datePublished: '2016-12-17T12:24:20.727Z'
+description: ROBOTάκια HELLAS
+dateModified: '2016-12-17T12:36:47.709Z'
+datePublished: '2016-12-17T12:36:48.236Z'
 title: ''
 author: []
 publisher: {}
@@ -13,6 +13,8 @@ datePublishedOriginal: '2016-12-17T12:17:49.437Z'
 _type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/17d009cf-278b-4afd-b635-9dba70ea3275.gif)
+
 ROBOTάκια HELLAS
 
 Ερμού 24α
