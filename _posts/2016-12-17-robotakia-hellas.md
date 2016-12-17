@@ -1,19 +1,19 @@
 ---
 inFeed: true
-description: ROBOTάκια HELLAS
-dateModified: '2016-12-17T12:58:02.980Z'
-datePublished: '2016-12-17T12:58:04.191Z'
+description: ROBOTάκια  HELLAS
+dateModified: '2016-12-17T12:59:13.934Z'
+datePublished: '2016-12-17T12:59:15.266Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2016-12-17-robotakia-hellas.md
 starred: false
-datePublishedOriginal: '2016-12-17T12:17:49.437Z'
+datePublishedOriginal: '2016-12-17T12:57:00.005Z'
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/17d009cf-278b-4afd-b635-9dba70ea3275.gif)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/84d30ddd-fc96-420e-bb62-3d6dca466da8.gif)
 
 ROBOTάκια HELLAS
 
