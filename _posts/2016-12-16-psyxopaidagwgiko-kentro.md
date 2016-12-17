@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: ROBOTάκια  HELLAS
-dateModified: '2016-12-17T12:11:00.692Z'
-datePublished: '2016-12-17T12:11:02.113Z'
+description: ROBOTάκια HELLAS
+dateModified: '2016-12-17T12:11:21.035Z'
+datePublished: '2016-12-17T12:11:21.620Z'
 title: ''
 author: []
 publisher: {}
@@ -15,7 +15,9 @@ _type: Blurb
 ---
 ROBOTάκια HELLAS
 
-Ερμού 24α - ΜΑΡΚΟΠΟΥΛΟ 19003
+Ερμού 24α
+
+ΜΑΡΚΟΠΟΥΛΟ 19003
 
 Τηλ. 2299 11 21 71
 
