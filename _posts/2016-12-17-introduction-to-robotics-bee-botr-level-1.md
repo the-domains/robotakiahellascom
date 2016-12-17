@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: 28 – 30 Δεκεμβρίου 2016 / Τετάρτη – Πέμπτη – Παρασκευή
-dateModified: '2016-12-17T00:57:07.294Z'
-datePublished: '2016-12-17T00:57:08.050Z'
+description: ''
+dateModified: '2016-12-17T01:19:16.469Z'
+datePublished: '2016-12-17T01:19:17.310Z'
 title: Πρόγραμμα Εργαστηρίων
 author: []
 publisher: {}
@@ -17,11 +17,11 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d669c6b1-d823-4eb7-8d7a-27535a5ab09d.png)
 
----
-
 ## Πρόγραμμα Εργαστηρίων
 
 ### Introduction to Robotics: Bee-Bot(r): -- levels 1 & 2
+
+---
 
 ---
 
@@ -56,7 +56,3 @@ _type: Article
 ---
 
 ---
-
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJzLKCkpsNLXLy8v1yvJz00sySzOSM3JSSzWSy_ST0pN1U3KL9HNzCspyk8pTS7JzM_TLcoHCmUmF8NkjQwMzXRVnV1VnQxBpKObqrObqoUJWMQczDaGsHVhHCBpChZyRiJNkbRBjDAHG-cKZhvpGukDAANeLy8" height="244" style=""></iframe>
-
-Δηλώσεις Συμμετοχής
