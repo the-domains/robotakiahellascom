@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ROBOTάκια   HELLAS]]></title>
+        <description><![CDATA[ROBOTάκια   HELLAS]]></description>
+        <link>http://robotakiahellas.com/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 17 Dec 2016 00:35:17 GMT</lastBuildDate>
+        <atom:link href="http://robotakiahellas.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Introduction to Robotics: Bee-Bot®: – level 1]]></title>
+            <description><![CDATA[<article><h1>Introduction to Robotics: Bee-Bot®: – level 1</h1><p>Συμμετοχή: 50 € / Σύνολο 6 ώρες / έως 6 παιδιά</p></article>]]></description>
+            <link>http://robotakiahellas.com/introduction-to-robotics-bee-botr-level-1/index.html</link>
+            <guid isPermaLink="false">d3fbc86f-0eb7-4576-97c0-79f514d17a76</guid>
+            <pubDate>Sat, 17 Dec 2016 00:34:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
