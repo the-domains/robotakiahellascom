@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2016-12-17T14:25:49.631Z'
-datePublished: '2016-12-17T14:26:12.777Z'
+dateModified: '2016-12-17T14:26:53.237Z'
+datePublished: '2016-12-17T14:26:53.847Z'
 title: Αιτήσεις Συμμετοχής ΒeeBots® 2016-2017
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2016-12-17-aithseis-symmetoxhs-beebotsr-2016-2017.md
 starred: false
 datePublishedOriginal: '2016-12-17T14:26:12.777Z'
-sourcePath: _posts/2016-12-17-aithseis-symmetoxhs-beebotsr-2016-2017.md
 url: aithseis-symmetoxhs-beebotsr-2016-2017/index.html
 _type: Article
 
