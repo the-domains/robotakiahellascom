@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 28 – 30 Δεκεμβρίου 2016 / Τετάρτη – Πέμπτη – Παρασκευή
-dateModified: '2016-12-17T00:51:56.766Z'
-datePublished: '2016-12-17T00:51:57.571Z'
+dateModified: '2016-12-17T00:57:07.294Z'
+datePublished: '2016-12-17T00:57:08.050Z'
 title: Πρόγραμμα Εργαστηρίων
 author: []
 publisher: {}
