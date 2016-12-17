@@ -1,9 +1,9 @@
 ---
 inFeed: false
-description: 'Introduction to Robotics: Bee-Bot®: – level 1'
-dateModified: '2016-12-17T00:30:42.769Z'
-datePublished: '2016-12-17T00:30:43.410Z'
-title: 'Introduction to Robotics: Bee-Bot® - levels 1 & 2'
+description: 28 – 30 Δεκεμβρίου 2016 / Τετάρτη – Πέμπτη – Παρασκευή
+dateModified: '2016-12-17T00:32:32.983Z'
+datePublished: '2016-12-17T00:32:33.877Z'
+title: 'Introduction to Robotics: Bee-Bot®: – level 1'
 author: []
 publisher: {}
 via: {}
@@ -17,7 +17,7 @@ _type: Blurb
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dec75032-4c69-42a7-9215-ab7a257105da.gif)
 
-**Introduction to Robotics: Bee-Bot(r): -- level 1**
+### **Introduction to Robotics: Bee-Bot(r): -- level 1**
 
 **28 -- 30 Δεκεμβρίου 2016 / Τετάρτη -- Πέμπτη -- Παρασκευή**
 
