@@ -1,19 +1,19 @@
-typography_spectrum: 0.5059737
+layout_spectrum: 0.5471310605807691
+typography_spectrum: 0.5011937356885928
 color:
-  saturation: 0.2328481288112257
-  brandStrength: 0.1883987080713383
-  rhythmicContrast: 0.2784374965731018
+  saturation: 0.689229284473741
+  brandStrength: 0.9081922724211385
+  rhythmicContrast: 0.7336942338372701
   brandColors:
-    - '#FF6600'
-    - '#C13B00'
-    - '#5E6D70'
-    - '#424E4F'
-    - '#1B1D1E'
-  lightness: 0.2374784666885355
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+  lightness: 0.43182290899447434
 github: true
 opengraph:
   appId: '@robotakiahellas'
-layout_spectrum: 0.630227
 author:
   email: kalostypi@icloud.com
   name: Learning Ways Hellas - Tomatis Hellas
