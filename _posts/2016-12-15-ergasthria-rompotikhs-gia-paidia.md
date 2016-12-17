@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2016-12-17T13:33:33.953Z'
-datePublished: '2016-12-17T13:33:34.987Z'
-title: Εργαστήρια Ρομποτικής για παιδιά!
+dateModified: '2016-12-17T15:06:00.713Z'
+datePublished: '2016-12-17T15:06:01.522Z'
+title: 'Robotάκια Hellas: Εργαστήρια Ρομποτικής για παιδιά!'
 author: []
 publisher: {}
 via: {}
