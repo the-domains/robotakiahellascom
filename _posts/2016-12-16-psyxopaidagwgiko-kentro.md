@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: Ψυχοπαιδαγωγικό Κέντρο
-dateModified: '2016-12-16T02:39:12.862Z'
-datePublished: '2016-12-16T02:39:14.066Z'
+description: ROBOTάκια  HELLAS
+dateModified: '2016-12-17T12:02:44.565Z'
+datePublished: '2016-12-17T12:02:46.016Z'
 title: ''
 author: []
 publisher: {}
@@ -13,9 +13,7 @@ datePublishedOriginal: '2016-12-16T01:59:29.922Z'
 _type: Blurb
 
 ---
-Ψυχοπαιδαγωγικό Κέντρο
-
-Learning Ways Hellas - Tomatis Hellas
+ROBOTάκια HELLAS
 
 Ερμού 24α - ΜΑΡΚΟΠΟΥΛΟ 19003
 
