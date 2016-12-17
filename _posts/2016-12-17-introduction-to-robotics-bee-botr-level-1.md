@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2016-12-17T14:59:59.258Z'
-datePublished: '2016-12-17T14:59:59.964Z'
+dateModified: '2016-12-17T15:02:18.686Z'
+datePublished: '2016-12-17T15:02:19.360Z'
 title: Πρόγραμμα Εργαστηρίων BeeBot® / 2016-2017
 author: []
 publisher: {}
@@ -59,6 +59,4 @@ _type: Blurb
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d6cd8de-948c-4e62-8a6c-75dc336a9ef7.jpg)
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJzLKCkpsNLXLy8v1yvJz00sySzOSM3JSSzWSy_ST0pN1U3KL9HNzCspyk8pTS7JzM_TLcoHCmUmF8NkjQwMzXRVnV1VnQxBpKObqrObqoUJWMQczDaGsHVhHCBpChZyRiJNkbRBjDAHG-cKZhvpGulzAQAyly85" height="242" style=""></iframe>
-
-Αιτήσεις Συμμετοχής ΒeeBots(r) 2016-2017
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJw7N_HczvMt59adbz63FchqUji3-HzruT1AuBUovP98O1AKKDgpNdUpv6T40DoFIwNDM10gYc6VUVJSYKWvX15erleSn5tYklmckZqTk1isl16kn5SaqpuUX6KbmVdSlJ9SmlySmZ-nW5QPFMpMLobJgo1SdXZVdTIEkY5uqs5uqhYmYBFzMNsYwtaFcYCkKVjIGYk0RdIGMcIcbJwrmG2ka6TPBQDcGVBW" height="242" style=""></iframe>
