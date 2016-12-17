@@ -1,8 +1,8 @@
 ---
-inFeed: true
+inFeed: false
 description: ''
-dateModified: '2016-12-17T01:19:16.469Z'
-datePublished: '2016-12-17T01:19:17.310Z'
+dateModified: '2016-12-17T01:19:34.485Z'
+datePublished: '2016-12-17T01:19:36.099Z'
 title: Πρόγραμμα Εργαστηρίων
 author: []
 publisher: {}
@@ -12,7 +12,7 @@ sourcePath: _posts/2016-12-17-introduction-to-robotics-bee-botr-level-1.md
 starred: false
 datePublishedOriginal: '2016-12-17T00:43:52.712Z'
 url: introduction-to-robotics-bee-botr-level-1/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d669c6b1-d823-4eb7-8d7a-27535a5ab09d.png)
