@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2016-12-17T12:15:03.217Z'
-datePublished: '2016-12-17T12:15:04.243Z'
-title: Εργαστήρια
+dateModified: '2016-12-17T12:15:45.747Z'
+datePublished: '2016-12-17T12:15:47.621Z'
+title: Εργαστήρια Ρομποτικής για παιδιά!
 author: []
 publisher: {}
 via: {}
@@ -15,9 +15,3 @@ _type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cea79128-9eb0-471a-80f5-754c3cff4c2b.gif)
-
-## Εργαστήρια
-
-## Ρομποτικής
-
-## για παιδιά!
