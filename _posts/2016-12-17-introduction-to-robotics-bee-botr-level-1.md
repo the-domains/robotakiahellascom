@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: 'Συμμετοχή: 50 € / Σύνολο 6 ώρες / έως 6 παιδιά'
-dateModified: '2016-12-17T00:34:08.157Z'
-datePublished: '2016-12-17T00:34:08.777Z'
+dateModified: '2016-12-17T00:43:52.800Z'
+datePublished: '2016-12-17T00:43:53.969Z'
 title: 'Introduction to Robotics: Bee-Bot®: – level 1'
 author: []
 publisher: {}
 via: {}
 hasPage: true
 starred: false
-datePublishedOriginal: '2016-12-17T00:34:08.777Z'
+datePublishedOriginal: '2016-12-17T00:43:52.712Z'
 sourcePath: _posts/2016-12-17-introduction-to-robotics-bee-botr-level-1.md
 url: introduction-to-robotics-bee-botr-level-1/index.html
 _type: Article
