@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2016-12-17T12:13:01.117Z'
-datePublished: '2016-12-17T12:13:02.960Z'
+dateModified: '2016-12-17T12:26:51.389Z'
+datePublished: '2016-12-17T12:26:51.951Z'
 title: Δημιουργική Μάθηση και Επίλυση Προβλημάτων
 author: []
 publisher: {}
@@ -15,7 +15,5 @@ _type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fe55ae7-d467-45c2-9c5d-b91dac5056b3.gif)
-
-## Δημιουργική Μάθηση και Επίλυση Προβλημάτων
 
 ---
