@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2016-12-17T12:13:01.117Z'
-datePublished: '2016-12-17T12:13:02.911Z'
+dateModified: '2016-12-17T12:26:12.031Z'
+datePublished: '2016-12-17T12:26:12.968Z'
 title: Τι είναι ρομποτική;
 author: []
 publisher: {}
@@ -15,5 +15,3 @@ _type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6be97a1f-6885-41aa-b4cb-d9a9cac2ca88.gif)
-
-## Τι είναι ρομποτική;
