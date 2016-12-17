@@ -1,9 +1,9 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2016-12-17T14:26:53.237Z'
-datePublished: '2016-12-17T14:26:53.852Z'
-title: Πρόγραμμα Εργαστηρίων Bee-Bot® / 2016-2017
+dateModified: '2016-12-17T14:48:45.541Z'
+datePublished: '2016-12-17T14:48:46.288Z'
+title: Πρόγραμμα Εργαστηρίων BeeBot® / 2016-2017
 author: []
 publisher: {}
 via: {}
@@ -17,7 +17,7 @@ _type: Blurb
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d669c6b1-d823-4eb7-8d7a-27535a5ab09d.png)
 
-## Πρόγραμμα Εργαστηρίων Bee-Bot(r) / 2016-2017
+## Πρόγραμμα Εργαστηρίων BeeBot(r) / 2016-2017
 
 ### Introduction to Robotics: Bee-Bot(r): -- levels 1 & 2
 
