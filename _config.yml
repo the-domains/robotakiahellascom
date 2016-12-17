@@ -38,10 +38,6 @@ navigation:
   - name: Πρόγραμμα Εργαστηρίων
     id: d3fbc86f-0eb7-4576-97c0-79f514d17a76
     type: content
-  - name: Αιτήσεις Συμμετοχής ΒeeBots®
-    url: >-
-      http://www.tomatishellas.gr/bee-bot-introduction-robotics/bee-bot2016-%CE%B1%CE%AF%CF%84%CE%B7%CF%83%CE%B7-%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%AE%CF%82-2/
-    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a49a115-3bc4-43bd-b763-df295b6a7909.gif
 collections:
