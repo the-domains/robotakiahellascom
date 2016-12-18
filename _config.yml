@@ -32,9 +32,6 @@ navigation:
   - name: Δημιουργική Μάθηση
     id: 74a5f10d-2b18-4408-85ee-fc4286cd5f4d
     type: content
-  - name: Meet our robots!
-    id: b38e17a1-18fb-4728-a541-0ceb87e7db80
-    type: content
   - name: 'Bee-Bot®: για παιδιά 4-8 χρόνων'
     id: 4a2ea5c6-93ca-43c0-812e-595affce3bd0
     type: content
