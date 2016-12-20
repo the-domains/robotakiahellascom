@@ -66,3 +66,6 @@ purpose:
   - type: contact
     url: 'mailto:hellasrobotakia@gmail.com'
     label: Contact ROBOTάκια
+  - type: contact
+    url: 'tel:2299112171'
+    label: Call 2299112171
