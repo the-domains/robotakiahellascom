@@ -62,3 +62,7 @@ collections:
 title: ROBOTάκια   HELLAS
 content: []
 description: Early Learning Robotics
+purpose:
+  - type: contact
+    url: 'mailto:hellasrobotakia@gmail.com'
+    label: Contact ROBOTάκια
