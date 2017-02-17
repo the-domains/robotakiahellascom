@@ -1,13 +1,11 @@
 ---
 inFeed: false
 description: 'Συμμετοχή: 50 € / Σύνολο 6 ώρες / έως 6 παιδιά - από 5 ετών'
-dateModified: '2017-02-17T15:17:58.540Z'
-datePublished: '2017-02-17T15:17:59.238Z'
-title: 'Νέα προγράμματα! '
+dateModified: '2017-02-17T15:23:23.709Z'
+datePublished: '2017-02-17T15:23:24.697Z'
+title: Νέα προγράμματα!
 author: []
-publisher:
-  name: Bee-Bot®
-  url: www.robotakiahellas.com
+publisher: {}
 via: {}
 hasPage: true
 sourcePath: _posts/2016-12-17-introduction-to-robotics-bee-botr-level-1.md
@@ -17,7 +15,7 @@ url: introduction-to-robotics-bee-botr-level-1/index.html
 _type: Blurb
 
 ---
-## Νέα προγράμματα! 
+## Νέα προγράμματα!
 
 ## 1\. **Introduction to Robotics: Bee-Bot**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d669c6b1-d823-4eb7-8d7a-27535a5ab09d.png)
