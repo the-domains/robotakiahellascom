@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: 'Συμμετοχή: 50 € / Σύνολο 6 ώρες / έως 6 παιδιά - από 5 ετών'
-dateModified: '2017-02-17T15:15:09.257Z'
-datePublished: '2017-02-17T15:15:10.104Z'
+dateModified: '2017-02-17T15:17:58.540Z'
+datePublished: '2017-02-17T15:17:59.238Z'
 title: 'Νέα προγράμματα! '
 author: []
 publisher:
@@ -19,11 +19,7 @@ _type: Blurb
 ---
 ## Νέα προγράμματα! 
 
----
-
-## 1o Πρόγραμμα: 
-
-## **Introduction to Robotics: Bee-Bot -- level 1**
+## 1\. **Introduction to Robotics: Bee-Bot**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d669c6b1-d823-4eb7-8d7a-27535a5ab09d.png)
 
 ### 11 -- 12 - 13 Απριλίου 2017 / Τρίτη - Τετάρτη -- Πέμπτη
@@ -43,9 +39,7 @@ _type: Blurb
 
 ---
 
-## 2o Πρόγραμμα:
-
-## **ScratchJr\* by M.I.T. -- Introduction**
+## 2\. **ScratchJr\***
 
 ---
 
