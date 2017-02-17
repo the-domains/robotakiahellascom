@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2017-02-17T12:52:09.998Z'
-datePublished: '2017-02-17T12:52:11.094Z'
+dateModified: '2017-02-17T13:09:18.730Z'
+datePublished: '2017-02-17T13:09:19.525Z'
 title: 'Introduction to Robotics - 1 '
 author: []
 publisher: {}
@@ -46,7 +46,7 @@ _type: Blurb
 
 ## **SCRATCH Jr by M.I.T. -- Introduction**
 
-**11 -- 12 - 13 Απριλίου 2017 / Τρίτη - Τετάρτη -- Πέμπτη**
+**18 -- 19 - 20 Απριλίου 2017 / Τρίτη - Τετάρτη -- Πέμπτη**
 
 Συμμετοχή: 50 € / Σύνολο 6 ώρες / έως 6 παιδιά
 
