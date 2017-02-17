@@ -23,9 +23,6 @@ logo: >-
 name: robotakiahellas.com
 url: 'http://robotakiahellas.com'
 navigation:
-  - name: 'Bee-Bot®: για παιδιά 4-8 χρόνων'
-    id: 4a2ea5c6-93ca-43c0-812e-595affce3bd0
-    type: content
   - name: Αιτήσεις Συμμετοχής ΒeeBot®
     url: >-
       http://www.tomatishellas.gr/bee-bot-introduction-robotics/bee-bot2016-%CE%B1%CE%AF%CF%84%CE%B7%CF%83%CE%B7-%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%AE%CF%82-2/
