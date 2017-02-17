@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: ROBOTάκια HELLAS
-dateModified: '2017-02-17T15:42:18.014Z'
-datePublished: '2017-02-17T15:42:18.761Z'
-title: ''
+dateModified: '2017-02-17T16:13:34.443Z'
+datePublished: '2017-02-17T16:13:35.491Z'
+title: Επικοινωνία
 author: []
 publisher: {}
 via: {}
@@ -15,7 +15,8 @@ url: robotakia-hellas/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b272fbc6-03d9-4bfd-b4b7-c58300ded8d4.gif)
+# Επικοινωνία
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/327aaaed-14bd-4577-aca3-a5e06e6b50c4.gif)
 
 ROBOTάκια HELLAS
 
@@ -25,6 +26,8 @@ ROBOTάκια HELLAS
 
 hellasrobotakia@gmail.com
 
-[robotakiahellas.com][0]
+[robotakiahellas.][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1cec193-042e-4524-be93-de208c64c46a.gif)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/32cc0f67-3a24-43c6-a571-63d848875209.gif)
 
 [0]: http://www.robotakiahellas.com/
