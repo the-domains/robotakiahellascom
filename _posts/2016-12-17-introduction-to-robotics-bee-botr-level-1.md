@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2017-02-17T15:10:36.422Z'
-datePublished: '2017-02-17T15:10:37.172Z'
+dateModified: '2017-02-17T15:12:04.070Z'
+datePublished: '2017-02-17T15:12:04.857Z'
 title: Νέα προγράμματα!
 author: []
 publisher: {}
@@ -25,10 +25,10 @@ _type: Blurb
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d59ba9d-d8b7-4384-a2ed-cef8488e18f8.png)
 
-## 1o Πρόγραμμα
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d669c6b1-d823-4eb7-8d7a-27535a5ab09d.png)
+## 1o Πρόγραμμα: 
 
 ## **Introduction to Robotics: Bee-Bot(r) -- level 1**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d669c6b1-d823-4eb7-8d7a-27535a5ab09d.png)
 
 ### 11 -- 12 - 13 Απριλίου 2017 / Τρίτη - Τετάρτη -- Πέμπτη
 
@@ -47,11 +47,11 @@ _type: Blurb
 
 ---
 
-## 2o Πρόγραμμα
-
----
+## 2o Πρόγραμμα:
 
 ## **ScratchJr\* by M.I.T. -- Introduction**
+
+---
 
 ### 18 -- 19 - 20 Απριλίου 2017 / Τρίτη - Τετάρτη -- Πέμπτη
 
