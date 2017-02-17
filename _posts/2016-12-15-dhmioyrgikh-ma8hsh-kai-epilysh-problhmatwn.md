@@ -1,16 +1,17 @@
 ---
-inFeed: true
+inFeed: false
 description: ''
-dateModified: '2016-12-17T13:33:33.953Z'
-datePublished: '2016-12-17T13:33:34.940Z'
+dateModified: '2017-02-17T15:35:09.135Z'
+datePublished: '2017-02-17T15:35:09.920Z'
 title: Δημιουργική Μάθηση και Επίλυση Προβλημάτων
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2016-12-15-dhmioyrgikh-ma8hsh-kai-epilysh-problhmatwn.md
-hasPage: false
+hasPage: true
 starred: false
 datePublishedOriginal: '2016-12-15T15:09:39.007Z'
+url: dhmioyrgikh-ma8hsh-kai-epilysh-problhmatwn/index.html
 _type: Blurb
 
 ---
