@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ROBOTάκια HELLAS
-dateModified: '2017-02-17T16:21:05.928Z'
-datePublished: '2017-02-17T16:21:06.721Z'
+dateModified: '2017-02-17T16:25:13.028Z'
+datePublished: '2017-02-17T16:25:14.037Z'
 title: Επικοινωνία
 author: []
 publisher: {}
@@ -16,7 +16,6 @@ _type: Article
 
 ---
 # Επικοινωνία
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/327aaaed-14bd-4577-aca3-a5e06e6b50c4.gif)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/534e32f3-927d-48f0-a5f3-8b5cb8c51956.gif)
 
 ROBOTάκια HELLAS
