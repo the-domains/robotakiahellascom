@@ -23,9 +23,6 @@ logo: >-
 name: robotakiahellas.com
 url: 'http://robotakiahellas.com'
 navigation:
-  - name: Εργαστήρια Ρομποτικής για παιδιά
-    id: b94b0846-86fa-491e-92ae-03eefe7fe98b
-    type: content
   - name: Τι είναι Ρομποτική;
     id: 13188d35-36f5-402c-9d1c-ab08fd3e917d
     type: content
