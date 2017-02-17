@@ -27,9 +27,6 @@ navigation:
     url: >-
       http://www.tomatishellas.gr/bee-bot-introduction-robotics/bee-bot2016-%CE%B1%CE%AF%CF%84%CE%B7%CF%83%CE%B7-%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%AE%CF%82-2/
     type: external
-  - name: “Δημιουργικά Σαββατοκύριακα”
-    id: fba7f52f-4d40-4a30-a746-66a9ea62d897
-    type: content
   - name: Γνωρίστε τα  ROBOTάκια!
     id: b38e17a1-18fb-4728-a541-0ceb87e7db80
     type: content
