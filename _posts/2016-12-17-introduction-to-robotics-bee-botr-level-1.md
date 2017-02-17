@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2017-02-17T13:09:18.730Z'
-datePublished: '2017-02-17T13:09:19.525Z'
+dateModified: '2017-02-17T14:35:01.203Z'
+datePublished: '2017-02-17T14:35:02.319Z'
 title: 'Introduction to Robotics - 1 '
 author: []
 publisher: {}
@@ -23,7 +23,7 @@ _type: Blurb
 
 ## **Introduction to Robotics: Bee-Bot(r) -- level 1**
 
-**11 -- 12 - 13 Απριλίου 2017 / Τρίτη - Τετάρτη -- Πέμπτη**
+### 11 -- 12 - 13 Απριλίου 2017 / Τρίτη - Τετάρτη -- Πέμπτη
 
 Συμμετοχή: 50 € / Σύνολο 6 ώρες / έως 6 παιδιά
 
@@ -44,9 +44,9 @@ _type: Blurb
 
 ---
 
-## **SCRATCH Jr by M.I.T. -- Introduction**
+## **SCRATCHJr by M.I.T. -- Introduction**
 
-**18 -- 19 - 20 Απριλίου 2017 / Τρίτη - Τετάρτη -- Πέμπτη**
+### 18 -- 19 - 20 Απριλίου 2017 / Τρίτη - Τετάρτη -- Πέμπτη
 
 Συμμετοχή: 50 € / Σύνολο 6 ώρες / έως 6 παιδιά
 
@@ -56,10 +56,12 @@ _type: Blurb
 
 **Εργαστήριο "Πυθαγόρας 2" / 17:00 -- 19:00**
 
----
+<button data-role="cta" style="">Δηλώστ&amp;epsi; Σ&amp;upsi;μμ&amp;epsi;τοχή</button>
 
 ---
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d6cd8de-948c-4e62-8a6c-75dc336a9ef7.jpg)
+---
+
+
 
 [0]: http://www.tomatishellas.gr/bee-bot-introduction-robotics/bee-bot2016-%CE%B1%CE%AF%CF%84%CE%B7%CF%83%CE%B7-%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%AE%CF%82-2/
