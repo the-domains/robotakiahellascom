@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: 'Συμμετοχή: 50 € / Σύνολο 6 ώρες / έως 6 παιδιά - από 5 ετών'
-dateModified: '2017-02-17T15:26:52.933Z'
-datePublished: '2017-02-17T15:26:53.574Z'
+dateModified: '2017-02-17T15:28:11.451Z'
+datePublished: '2017-02-17T15:28:12.284Z'
 title: Νέα προγράμματα / Πάσχα 2017!
 author: []
 publisher: {}
