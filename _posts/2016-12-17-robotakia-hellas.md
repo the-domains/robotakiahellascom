@@ -1,19 +1,18 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-02-17T17:50:26.724Z'
-datePublished: '2017-02-17T17:50:27.915Z'
+dateModified: '2017-02-17T23:11:54.260Z'
+datePublished: '2017-02-17T23:11:55.377Z'
 title: Επικοινωνία
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2016-12-17-robotakia-hellas.md
-hasPage: false
-isBasedOnUrl: >-
-  https://the-grid.github.io/ed-location/?latitude=37.88410079231863&longitude=23.93101215362549&zoom=17
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-02-17T17:50:27.915Z'
-_type: MediaObject
+url: epikoinwnia/index.html
+_type: Article
 
 ---
 <iframe src="https://the-grid.github.io/ed-location/?latitude=37.88410079231863&amp;longitude=23.93101215362549&amp;zoom=17" style=""></iframe>
@@ -34,6 +33,6 @@ e-mail: hellasrobotakia@gmail.com
 
 ---
 
-
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a4c835c-2421-49e3-a4f3-fde5432e0686.gif)
 
 [0]: http://www.robotakiahellas.com/
