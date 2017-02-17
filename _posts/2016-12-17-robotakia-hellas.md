@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-02-17T23:11:54.260Z'
-datePublished: '2017-02-17T23:11:55.377Z'
+dateModified: '2017-02-17T23:12:59.608Z'
+datePublished: '2017-02-17T23:13:00.313Z'
 title: Επικοινωνία
 author: []
 publisher: {}
@@ -15,6 +15,8 @@ url: epikoinwnia/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f140ad8c-1dfb-4e2d-825a-8fee7d8aab10.gif)
+
 <iframe src="https://the-grid.github.io/ed-location/?latitude=37.88410079231863&amp;longitude=23.93101215362549&amp;zoom=17" style=""></iframe>
 
 # Επικοινωνία
