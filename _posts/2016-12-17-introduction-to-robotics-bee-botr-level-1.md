@@ -1,9 +1,9 @@
 ---
 inFeed: false
-description: ''
-dateModified: '2017-02-17T14:36:09.044Z'
-datePublished: '2017-02-17T14:36:10.164Z'
-title: 'Νεά προγράμματα! '
+description: 'Συμμετοχή: 50 € / Σύνολο 6 ώρες / έως 6 παιδιά'
+dateModified: '2017-02-17T14:38:59.029Z'
+datePublished: '2017-02-17T14:39:00.093Z'
+title: Νέα προγράμματα!
 author: []
 publisher: {}
 via: {}
@@ -15,14 +15,12 @@ url: introduction-to-robotics-bee-botr-level-1/index.html
 _type: Blurb
 
 ---
-# Νεά προγράμματα! 
+# Νέα προγράμματα!
 
 # Introduction to Robotics - 1
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d669c6b1-d823-4eb7-8d7a-27535a5ab09d.png)
 
 ## 1o Πρόγραμμα
-
----
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d669c6b1-d823-4eb7-8d7a-27535a5ab09d.png)
 
 ## **Introduction to Robotics: Bee-Bot(r) -- level 1**
 
