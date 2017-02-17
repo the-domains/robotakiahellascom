@@ -1,8 +1,8 @@
 ---
-inFeed: true
+inFeed: false
 description: ''
-dateModified: '2017-02-17T23:14:02.776Z'
-datePublished: '2017-02-17T23:14:03.854Z'
+dateModified: '2017-02-17T23:46:24.605Z'
+datePublished: '2017-02-17T23:46:25.518Z'
 title: Επικοινωνία
 author: []
 publisher: {}
@@ -12,7 +12,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2017-02-17T17:50:27.915Z'
 url: epikoinwnia/index.html
-_type: Article
+_type: MediaObject
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f140ad8c-1dfb-4e2d-825a-8fee7d8aab10.gif)
