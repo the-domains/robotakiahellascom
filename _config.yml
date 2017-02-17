@@ -30,9 +30,6 @@ navigation:
   - name: Γνωρίστε τα  ROBOTάκια!
     id: b38e17a1-18fb-4728-a541-0ceb87e7db80
     type: content
-  - name: Επικοινωνία
-    id: 1b4f4339-bc8e-45b3-a285-a9079940d2fc
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a49a115-3bc4-43bd-b763-df295b6a7909.gif
 collections:
