@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ROBOTάκια HELLAS
-dateModified: '2016-12-17T15:06:43.189Z'
-datePublished: '2016-12-17T15:06:43.955Z'
+dateModified: '2017-02-17T15:38:46.610Z'
+datePublished: '2017-02-17T15:38:47.484Z'
 title: ''
 author: []
 publisher: {}
@@ -17,11 +17,11 @@ _type: Blurb
 
 ROBOTάκια HELLAS
 
-Ερμού 24α
-
-ΜΑΡΚΟΠΟΥΛΟ 19003
+Ερμού 24α - ΜΑΡΚΟΠΟΥΛΟ 19003
 
 Τηλ. 2299 11 21 71
+
+hellasrobotakia@gmail.com
 
 [robotakiahellas.com][0]
 
