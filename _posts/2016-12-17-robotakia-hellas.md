@@ -1,18 +1,17 @@
 ---
 inFeed: true
 description: ROBOTάκια HELLAS
-dateModified: '2017-02-17T16:35:10.139Z'
-datePublished: '2017-02-17T16:35:11.010Z'
+dateModified: '2017-02-17T16:39:31.048Z'
+datePublished: '2017-02-17T16:39:31.775Z'
 title: Επικοινωνία
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2016-12-17-robotakia-hellas.md
-hasPage: true
+hasPage: false
 starred: false
 datePublishedOriginal: '2016-12-17T14:50:57.328Z'
-url: robotakia-hellas/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Επικοινωνία
