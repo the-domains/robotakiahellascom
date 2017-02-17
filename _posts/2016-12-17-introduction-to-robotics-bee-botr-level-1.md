@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2017-02-17T14:41:27.390Z'
-datePublished: '2017-02-17T14:41:28.968Z'
+dateModified: '2017-02-17T14:55:28.810Z'
+datePublished: '2017-02-17T14:55:29.498Z'
 title: Νέα προγράμματα!
 author: []
 publisher: {}
@@ -49,7 +49,7 @@ _type: Blurb
 
 ---
 
-## **ScratchJr by M.I.T. -- Introduction**
+## **ScratchJr\* by M.I.T. -- Introduction**
 
 ### 18 -- 19 - 20 Απριλίου 2017 / Τρίτη - Τετάρτη -- Πέμπτη
 
@@ -64,6 +64,10 @@ _type: Blurb
 <button data-role="cta" style="">Δηλώστ&amp;epsi; Σ&amp;upsi;μμ&amp;epsi;τοχή</button>
 
 ---
+
+---
+
+**\*ScratchJr **is a collaboration between the DevTech Research Group at Tufts University, the Lifelong Kindergarten Group at the MIT Media Lab, and the Playful Invention Company.
 
 ---
 
