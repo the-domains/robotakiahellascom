@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2017-02-17T15:12:04.070Z'
-datePublished: '2017-02-17T15:12:04.857Z'
+dateModified: '2017-02-17T15:13:13.526Z'
+datePublished: '2017-02-17T15:13:14.904Z'
 title: Νέα προγράμματα!
 author: []
 publisher: {}
@@ -27,7 +27,7 @@ _type: Blurb
 
 ## 1o Πρόγραμμα: 
 
-## **Introduction to Robotics: Bee-Bot(r) -- level 1**
+## **Introduction to Robotics: Bee-Bot -- level 1**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d669c6b1-d823-4eb7-8d7a-27535a5ab09d.png)
 
 ### 11 -- 12 - 13 Απριλίου 2017 / Τρίτη - Τετάρτη -- Πέμπτη
