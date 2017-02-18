@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Στα Εργαστήρια Ρομποτικής “Robotάκια Hellas” τα παιδιά θα γνωρίσουν, θα
   χειριστούν, θα συνθέσουν και θα προγραμματίσουν πραγματικά ρομπότ!
-dateModified: '2017-02-17T23:51:29.520Z'
-datePublished: '2017-02-17T23:51:30.714Z'
+dateModified: '2017-02-18T00:09:09.040Z'
+datePublished: '2017-02-18T00:09:09.753Z'
 title: Εργαστήρια Ρομποτικής για παιδιά
 author: []
 publisher: {}
@@ -12,7 +12,7 @@ via: {}
 hasPage: false
 sourcePath: _posts/2016-12-15-me-ta-robotakia-hellas-ta-paidia-8a-gnwrisoyn-8a-xeiristo.md
 starred: false
-datePublishedOriginal: '2017-02-17T23:50:51.924Z'
+datePublishedOriginal: '2017-02-18T00:09:08.411Z'
 _type: Blurb
 
 ---
