@@ -1,8 +1,8 @@
 ---
-inFeed: false
+inFeed: true
 description: 'Συμμετοχή: 50 € / Σύνολο 6 ώρες / έως 6 παιδιά - από 5 ετών'
-dateModified: '2017-02-18T01:37:30.431Z'
-datePublished: '2017-02-18T01:37:31.621Z'
+dateModified: '2017-02-18T01:39:26.168Z'
+datePublished: '2017-02-18T01:39:27.044Z'
 title: Νέα προγράμματα / Πάσχα 2017!
 author: []
 publisher: {}
@@ -12,7 +12,7 @@ sourcePath: _posts/2016-12-17-introduction-to-robotics-bee-botr-level-1.md
 starred: false
 datePublishedOriginal: '2017-02-18T01:23:27.948Z'
 url: nea-programmata-pasxa-2017/index.html
-_type: Blurb
+_type: Article
 
 ---
 ## Νέα προγράμματα / Πάσχα 2017!
@@ -29,7 +29,7 @@ _type: Blurb
 **Εργαστήριο "Αρχιμήδης 1" / 11:00 -- 13:00**
 
 **Εργαστήριο "Πυθαγόρας 1" / 17:00 -- 19:00**
-[Δηλώστ&epsi; Σημ&epsi;τοχή][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/998b29c2-321f-4979-a830-6232bb277223.jpg)
 
 ## **ScratchJr\***
 
@@ -42,7 +42,6 @@ _type: Blurb
 **Εργαστήριο "Αρχιμήδης 2" / 11:00 -- 13:00**
 
 **Εργαστήριο "Πυθαγόρας 2" / 17:00 -- 19:00**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/68e5e200-2bcf-4553-a106-a23abce49b91.jpg)
 
 **\*ScratchJr **is a collaboration between the DevTech Research Group at Tufts University, the Lifelong Kindergarten Group at the MIT Media Lab, and the Playful Invention Company.
-
-[0]: http://www.tomatishellas.gr/bee-bot-introduction-robotics/bee-bot2016-%CE%B1%CE%AF%CF%84%CE%B7%CF%83%CE%B7-%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%AE%CF%82-2/
