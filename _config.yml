@@ -38,6 +38,9 @@ navigation:
   - name: “Δημιουργικά Σαββατοκύριακα”
     id: fba7f52f-4d40-4a30-a746-66a9ea62d897
     type: content
+  - name: 'Εργαστήρια Bee-Bot®: για παιδιά 4-8 χρόνων'
+    id: 4a2ea5c6-93ca-43c0-812e-595affce3bd0
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a49a115-3bc4-43bd-b763-df295b6a7909.gif
 collections:
