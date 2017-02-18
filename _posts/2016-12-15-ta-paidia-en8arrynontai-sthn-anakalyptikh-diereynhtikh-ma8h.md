@@ -1,18 +1,17 @@
 ---
-inFeed: false
+inFeed: true
 description: Δημιουργική Μάθηση και Επίλυση Προβλημάτων
-dateModified: '2017-02-18T00:05:40.759Z'
-datePublished: '2017-02-18T00:06:02.157Z'
+dateModified: '2017-02-18T00:12:13.548Z'
+datePublished: '2017-02-18T00:12:14.505Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-hasPage: true
+hasPage: false
 sourcePath: >-
   _posts/2016-12-15-ta-paidia-en8arrynontai-sthn-anakalyptikh-diereynhtikh-ma8h.md
 starred: false
-datePublishedOriginal: '2017-02-18T00:06:02.157Z'
-url: dhmioyrgikh-ma8hsh-kai-epilysh-problhmatwn/index.html
+datePublishedOriginal: '2017-02-18T00:12:12.512Z'
 _type: Blurb
 
 ---
