@@ -5,19 +5,18 @@ description: >-
   λύσουν προβλήματα του πραγματικού κόσμου, με δραστηριότητες έρευνας που
   βασίζoνται α) στον άμεσο πειραματισμό, στην δοκιμασία σωστού ή λάθους, στην
   δημιουργική σκέψη και στην επίλυση προβλημάτων.
-dateModified: '2017-02-18T00:53:24.005Z'
-datePublished: '2017-02-18T00:53:24.642Z'
+dateModified: '2017-02-18T00:54:02.501Z'
+datePublished: '2017-02-18T00:54:03.141Z'
 title: Δημιουργική Μάθηση και Επίλυση Προβλημάτων
 author: []
 publisher: {}
 via: {}
-hasPage: true
+hasPage: false
 sourcePath: >-
   _posts/2016-12-15-ta-paidia-en8arrynontai-sthn-anakalyptikh-diereynhtikh-ma8h.md
 starred: false
 datePublishedOriginal: '2017-02-18T00:12:12.512Z'
-url: dhmioyrgikh-ma8hsh-kai-epilysh-problhmatwn/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Δημιουργική Μάθηση και Επίλυση Προβλημάτων
