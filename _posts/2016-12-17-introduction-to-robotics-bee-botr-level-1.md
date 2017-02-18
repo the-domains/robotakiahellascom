@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: 'Συμμετοχή: 50 € / Σύνολο 6 ώρες / έως 6 παιδιά - από 5 ετών'
-dateModified: '2017-02-17T16:24:15.976Z'
-datePublished: '2017-02-18T01:23:27.948Z'
+dateModified: '2017-02-18T01:25:54.018Z'
+datePublished: '2017-02-18T01:25:54.995Z'
 title: Νέα προγράμματα / Πάσχα 2017!
 author: []
 publisher: {}
@@ -30,37 +30,5 @@ _type: Blurb
 
 **Εργαστήριο "Πυθαγόρας 1" / 17:00 -- 19:00**
 [Δηλώστ&epsi; Σημ&epsi;τοχή][0]
-
----
-
----
-
----
-
-## 2\. **ScratchJr\***
-
----
-
-### 18 -- 19 - 20 Απριλίου 2017 / Τρίτη - Τετάρτη -- Πέμπτη
-
-Συμμετοχή: 50 € / Σύνολο 6 ώρες / έως 6 παιδιά - από 5 ετών
-
-**Επιλέξετε Πρωινό ή Απογευματινό Εργαστήριο!**
-
-**Εργαστήριο "Αρχιμήδης 2" / 11:00 -- 13:00**
-
-**Εργαστήριο "Πυθαγόρας 2" / 17:00 -- 19:00**
-
-<button data-role="cta" style="">Δηλώστ&amp;epsi; Σ&amp;upsi;μμ&amp;epsi;τοχή</button>
-
----
-
----
-
-**\*ScratchJr **is a collaboration between the DevTech Research Group at Tufts University, the Lifelong Kindergarten Group at the MIT Media Lab, and the Playful Invention Company.
-
----
-
-
 
 [0]: http://www.tomatishellas.gr/bee-bot-introduction-robotics/bee-bot2016-%CE%B1%CE%AF%CF%84%CE%B7%CF%83%CE%B7-%CF%83%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%AE%CF%82-2/
