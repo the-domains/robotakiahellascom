@@ -1,21 +1,20 @@
 ---
-inFeed: false
+inFeed: true
 description: >-
   Τα Bee-Bot® είναι βραβευμένα, προγραμματιζόμενα ρομπότ εδάφους, ιδανικά για
   μικρά παιδιά, αγόρια και κορίτσια. Η Εισαγωγή στην Ρομποτική και η διδασκαλία
   προγραμματισμού, μέσω αυτών των μικρών ρομπότ, προσφέρει: ατελείωτες ώρες
   δημιουργικής μάθησης και παιχνιδιού.
-dateModified: '2017-02-17T23:51:29.520Z'
-datePublished: '2017-02-17T23:51:30.766Z'
+dateModified: '2017-02-18T00:12:48.539Z'
+datePublished: '2017-02-18T00:12:49.234Z'
 title: 'Εργαστήρια Bee-Bot®: για παιδιά 4-8 χρόνων'
 author: []
 publisher: {}
 via: {}
-hasPage: true
+hasPage: false
 sourcePath: _posts/2016-12-15-ka8e-paidi-8a-xeirizetai-kai-ena-rompot.md
 starred: false
-datePublishedOriginal: '2017-02-17T23:49:13.162Z'
-url: ergasthria-bee-botr-gia-paidia-4-8-xronwn/index.html
+datePublishedOriginal: '2017-02-18T00:12:44.959Z'
 _type: Blurb
 
 ---
