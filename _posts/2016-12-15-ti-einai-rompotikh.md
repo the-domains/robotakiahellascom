@@ -1,8 +1,11 @@
 ---
 inFeed: true
-description: ''
-dateModified: '2017-02-18T00:00:15.304Z'
-datePublished: '2017-02-18T00:00:34.150Z'
+description: >-
+  Η Ρομποτική είναι ο κλάδος της επιστήμης που μελετά τις μηχανές εκείνες που
+  μπορούν να αντικαταστήσουν τον άνθρωπο στην εκτέλεση μιας εργασίας, η οποία
+  συνδυάζει τη φυσική δραστηριότητα, με τη διαδικασία λήψης αποφάσεων.
+dateModified: '2017-02-18T00:01:41.853Z'
+datePublished: '2017-02-18T00:01:42.876Z'
 title: Τι είναι ρομποτική;
 author: []
 publisher: {}
@@ -10,12 +13,10 @@ via: {}
 hasPage: false
 sourcePath: _posts/2016-12-15-ti-einai-rompotikh.md
 starred: false
-datePublishedOriginal: '2017-02-18T00:00:34.150Z'
+datePublishedOriginal: '2017-02-17T23:43:18.389Z'
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c3cbd35-a3e4-469d-9788-be241ec3a66a.gif)
-
 # Τι είναι ρομποτική;
 
 ---
