@@ -1,8 +1,8 @@
 ---
-inFeed: true
+inFeed: false
 description: 'Συμμετοχή: 50 € / Σύνολο 6 ώρες / έως 6 παιδιά - από 5 ετών'
-dateModified: '2017-02-18T01:40:50.300Z'
-datePublished: '2017-02-18T01:40:50.995Z'
+dateModified: '2017-02-18T01:43:53.209Z'
+datePublished: '2017-02-18T01:43:54.283Z'
 title: Νέα προγράμματα / Πάσχα 2017!
 author: []
 publisher: {}
@@ -12,7 +12,7 @@ sourcePath: _posts/2016-12-17-introduction-to-robotics-bee-botr-level-1.md
 starred: false
 datePublishedOriginal: '2017-02-18T01:23:27.948Z'
 url: nea-programmata-pasxa-2017/index.html
-_type: Article
+_type: Blurb
 
 ---
 ## Νέα προγράμματα / Πάσχα 2017!
