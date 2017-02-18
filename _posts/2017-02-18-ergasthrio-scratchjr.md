@@ -4,8 +4,8 @@ description: >-
   *Scratch Jr is a collaboration between the DevTech Research Group at Tufts
   University, the Lifelong Kindergarten Group at the MIT Media Lab, and the
   Playful Invention Company.
-dateModified: '2017-02-18T01:36:49.415Z'
-datePublished: '2017-02-18T01:36:50.209Z'
+dateModified: '2017-02-18T01:37:30.431Z'
+datePublished: '2017-02-18T01:37:31.171Z'
 title: Εργαστήρια Scratch Jr*
 author: []
 publisher: {}
