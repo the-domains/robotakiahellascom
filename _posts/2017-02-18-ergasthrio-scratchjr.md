@@ -5,16 +5,16 @@ description: >-
   University, the Lifelong Kindergarten Group at the MIT Media Lab, and the
   Playful Invention Company.18 – 19 - 20 Απριλίου 2017 / Τρίτη - Τετάρτη –
   Πέμπτη
-dateModified: '2017-02-18T01:33:36.721Z'
-datePublished: '2017-02-18T01:33:37.372Z'
+dateModified: '2017-02-18T01:34:39.759Z'
+datePublished: '2017-02-18T01:34:40.436Z'
 title: Εργαστήριο ScratchJr*
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-02-18-ergasthrio-scratchjr.md
 starred: false
 datePublishedOriginal: '2017-02-18T01:33:36.140Z'
-sourcePath: _posts/2017-02-18-ergasthrio-scratchjr.md
 url: ergasthrio-scratchjr/index.html
 _type: Article
 
