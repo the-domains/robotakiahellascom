@@ -1,9 +1,9 @@
 ---
 inFeed: false
 description: 'Συμμετοχή: 50 € / Σύνολο 6 ώρες / έως 6 παιδιά - από 5 ετών'
-dateModified: '2017-02-18T01:43:53.209Z'
-datePublished: '2017-02-18T01:43:54.283Z'
-title: Νέα προγράμματα / Πάσχα 2017!
+dateModified: '2017-02-18T01:53:50.106Z'
+datePublished: '2017-02-18T01:53:51.163Z'
+title: Πρόγραμμα Εργαστηρίων / Πάσχα 2017!
 author: []
 publisher: {}
 via: {}
@@ -15,7 +15,7 @@ url: nea-programmata-pasxa-2017/index.html
 _type: Blurb
 
 ---
-## Νέα προγράμματα / Πάσχα 2017!
+## Πρόγραμμα Εργαστηρίων / Πάσχα 2017!
 
 ## 1\. **Introduction to Robotics: Bee-Bot**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d669c6b1-d823-4eb7-8d7a-27535a5ab09d.png)
