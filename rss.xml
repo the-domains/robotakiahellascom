@@ -4,9 +4,9 @@
         <description><![CDATA[ROBOTάκια   HELLAS]]></description>
         <link>http://robotakiahellas.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 18 Feb 2017 01:37:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Feb 2017 01:39:55 GMT</lastBuildDate>
         <atom:link href="http://robotakiahellas.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Feb 2017 01:37:31 GMT</pubDate>
+        <pubDate>Sat, 18 Feb 2017 01:39:54 GMT</pubDate>
         <item>
             <title><![CDATA[Τι είναι ρομποτική;]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3890032-a18a-4d56-9e96-3552caf56db5.jpg">,<h1>Τι είναι ρομποτική;</h1>,<p>Η Ρομποτική είναι ο κλάδος της επιστήμης που μελετά τις μηχανές εκείνες που μπορούν να αντικαταστήσουν τον άνθρωπο στην εκτέλεση μιας εργασίας, η οποία συνδυάζει τη φυσική δραστηριότητα, με τη διαδικασία λήψης αποφάσεων.</p>,<p>Η τρέχουσα χρήση των ρομπότ βρίσκεται στη βιομηχανία, η οποία αποτελεί έναν αναπτυγμένο και ώριμο τομέα εφαρμογής της ρομποτικής τεχνολογίας.<br>Σημαντικοί τομείς εφαρμογής της ρομποτικής τεχνολογίας είναι η εξερεύνηση του διαστήματος, η ιατρική, οι αγροτικές εφαρμογές, η έρευνα και διάσωση, κ.ά.</p>]]></description>
@@ -20,6 +20,13 @@
             <link>http://robotakiahellas.com/ergasthrio-scratchjr/index.html</link>
             <guid isPermaLink="false">fbb84d10-051b-4b68-b739-4f56ae550689</guid>
             <pubDate>Sat, 18 Feb 2017 01:33:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Νέα προγράμματα / Πάσχα 2017!]]></title>
+            <description><![CDATA[<h2>Νέα προγράμματα / Πάσχα 2017!</h2>,<h2>1. <strong>Introduction to Robotics: Bee-Bot</strong></h2>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d669c6b1-d823-4eb7-8d7a-27535a5ab09d.png">,<h3>11 – 12 - 13 Απριλίου 2017 / Τρίτη - Τετάρτη – Πέμπτη</h3>,<p>Συμμετοχή: 50 € / Σύνολο 6 ώρες / έως 6 παιδιά - από 5 ετών</p>,<p><strong>Πρωινό ή Απογευματινό Εργαστήριο!</strong></p>,<p><strong>Εργαστήριο “Αρχιμήδης 1” / 11:00 – 13:00</strong></p>,<p><strong>Εργαστήριο “Πυθαγόρας 1” / 17:00 – 19:00</strong></p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/998b29c2-321f-4979-a830-6232bb277223.jpg">,<h2><strong>ScratchJr*</strong></h2>,<p><strong>18 – 19 - 20 Απριλίου 2017 / Τρίτη - Τετάρτη – Πέμπτη</strong></p>,<p>Συμμετοχή: 50 € / Σύνολο 6 ώρες / έως 6 παιδιά - από 5 ετών</p>,<p><strong>Επιλέξετε Πρωινό ή Απογευματινό Εργαστήριο!</strong></p>,<p><strong>Εργαστήριο “Αρχιμήδης 2” / 11:00 – 13:00</strong></p>,<p><strong>Εργαστήριο “Πυθαγόρας 2” / 17:00 – 19:00</strong></p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/68e5e200-2bcf-4553-a106-a23abce49b91.jpg">,<p><strong>*ScratchJr </strong>is a collaboration between the DevTech Research Group at Tufts University, the Lifelong Kindergarten Group at the MIT Media Lab, and the Playful Invention Company.</p>]]></description>
+            <link>http://robotakiahellas.com/nea-programmata-pasxa-2017/index.html</link>
+            <guid isPermaLink="false">d3fbc86f-0eb7-4576-97c0-79f514d17a76</guid>
+            <pubDate>Sat, 18 Feb 2017 01:23:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
