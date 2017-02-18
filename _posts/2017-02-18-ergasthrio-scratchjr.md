@@ -1,13 +1,12 @@
 ---
 inFeed: true
 description: >-
-  *ScratchJr is a collaboration between the DevTech Research Group at Tufts
+  *Scratch Jr is a collaboration between the DevTech Research Group at Tufts
   University, the Lifelong Kindergarten Group at the MIT Media Lab, and the
-  Playful Invention Company.18 – 19 - 20 Απριλίου 2017 / Τρίτη - Τετάρτη –
-  Πέμπτη
-dateModified: '2017-02-18T01:34:39.759Z'
-datePublished: '2017-02-18T01:34:40.436Z'
-title: Εργαστήριο ScratchJr*
+  Playful Invention Company.
+dateModified: '2017-02-18T01:36:49.415Z'
+datePublished: '2017-02-18T01:36:50.209Z'
+title: Εργαστήρια Scratch Jr*
 author: []
 publisher: {}
 via: {}
@@ -19,9 +18,11 @@ url: ergasthrio-scratchjr/index.html
 _type: Article
 
 ---
-## **Εργαστήριο ScratchJr\***
+## **Εργαστήρια Scratch Jr\***
 
-**\*ScratchJr **is a collaboration between the DevTech Research Group at Tufts University, the Lifelong Kindergarten Group at the MIT Media Lab, and the Playful Invention Company.**18 -- 19 - 20 Απριλίου 2017 / Τρίτη - Τετάρτη -- Πέμπτη**
+**\*Scratch Jr **is a collaboration between the DevTech Research Group at Tufts University, the Lifelong Kindergarten Group at the MIT Media Lab, and the Playful Invention Company.
+
+**18 -- 19 - 20 Απριλίου 2017 / Τρίτη - Τετάρτη -- Πέμπτη**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cfeb90ff-6594-4ad9-b42e-7d3b0716b13c.jpg)
 
 Συμμετοχή: 50 € / Σύνολο 6 ώρες / έως 6 παιδιά - από 5 ετών
