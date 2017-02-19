@@ -4,9 +4,9 @@ description: >-
   *Scratch Jr is a collaboration between the DevTech Research Group at Tufts
   University, the Lifelong Kindergarten Group at the MIT Media Lab, and the
   Playful Invention Company.
-dateModified: '2017-02-19T23:37:15.672Z'
-datePublished: '2017-02-19T23:37:16.286Z'
-title: ''
+dateModified: '2017-02-19T23:43:16.583Z'
+datePublished: '2017-02-19T23:43:17.226Z'
+title: Εργαστήρια *Scratch Jr
 author: []
 publisher: {}
 via: {}
@@ -18,7 +18,7 @@ url: ergasthrio-scratchjr/index.html
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/24707e63-7871-4920-9f41-db900448ebc8.jpg)
+# Εργαστήρια **\*Scratch Jr**
 
 **\*Scratch Jr **is a collaboration between the DevTech Research Group at Tufts University, the Lifelong Kindergarten Group at the MIT Media Lab, and the Playful Invention Company.
 
@@ -31,6 +31,6 @@ _type: Blurb
 **Εργαστήριο "Αρχιμήδης 2" / 11:00 -- 13:00**
 
 **Εργαστήριο "Πυθαγόρας 2" / 17:00 -- 19:00**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/de633eeb-e27f-403e-b617-b044d1cf2e73.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bc7aade-3aac-4655-93fa-7cd427f72a7e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b13f9438-af0b-4d0a-96ba-cd8122ac2391.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a342029-28fa-433b-9822-aa4f5f50404c.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e405d898-5184-4b08-ac1f-2756c5d46204.jpg)
