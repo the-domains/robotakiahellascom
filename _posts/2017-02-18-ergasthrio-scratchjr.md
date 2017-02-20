@@ -4,8 +4,8 @@ description: >-
   Το Scratch Jr* είναι μια εισαγωγική γλώσσα προγραμματισμού, η οποία δίνει την
   δυνατότητα στα μικρά παιδιά να δημιουργήσουν τα δικά τους προσωπικά παιχνίδια
   και να προγραμματίσουν διαδραστικές ιστορίες.
-dateModified: '2017-02-20T00:26:48.143Z'
-datePublished: '2017-02-20T00:26:49.315Z'
+dateModified: '2017-02-20T00:28:07.038Z'
+datePublished: '2017-02-20T00:28:07.990Z'
 title: Εργαστήρια Scratch Jr
 author: []
 publisher: {}
@@ -31,9 +31,8 @@ _type: Blurb
 
 **Επιλέξετε Πρωινό ή Απογευματινό Εργαστήριο!**
 
-**Εργαστήριο "Αρχιμήδης 2" / 11:00 -- 13:00**
-
-**Εργαστήριο "Πυθαγόρας 2" / 17:00 -- 19:00**
+* **Εργαστήριο "Αρχιμήδης 2" / 11:00 -- 13:00**
+* **Εργαστήριο "Πυθαγόρας 2" / 17:00 -- 19:00**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bc7aade-3aac-4655-93fa-7cd427f72a7e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b13f9438-af0b-4d0a-96ba-cd8122ac2391.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e405d898-5184-4b08-ac1f-2756c5d46204.jpg)
