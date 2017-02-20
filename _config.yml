@@ -26,6 +26,9 @@ navigation:
   - name: 'Εργαστήρια Bee-Bot®: για παιδιά 4-8 χρόνων'
     id: 4a2ea5c6-93ca-43c0-812e-595affce3bd0
     type: content
+  - name: Τι είναι ρομποτική;
+    id: 13188d35-36f5-402c-9d1c-ab08fd3e917d
+    type: content
   - name: 'Εργαστήρια  Scratch Jr: για παιδιά 4-12 χρόνων'
     id: fbb84d10-051b-4b68-b739-4f56ae550689
     type: content
@@ -43,9 +46,6 @@ navigation:
     type: content
   - name: GALLERY
     id: f5398015-5add-4ebe-8120-4fd7219b06c6
-    type: content
-  - name: Τι είναι ρομποτική;
-    id: 13188d35-36f5-402c-9d1c-ab08fd3e917d
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a49a115-3bc4-43bd-b763-df295b6a7909.gif
