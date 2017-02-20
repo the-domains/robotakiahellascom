@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: 'Συμμετοχή: 50 € / Σύνολο 6 ώρες / έως 6 παιδιά - από 5 ετών'
-dateModified: '2017-02-18T01:53:50.106Z'
-datePublished: '2017-02-18T01:53:51.163Z'
+dateModified: '2017-02-20T00:02:16.142Z'
+datePublished: '2017-02-20T00:02:16.920Z'
 title: Πρόγραμμα Εργαστηρίων / Πάσχα 2017!
 author: []
 publisher: {}
@@ -31,7 +31,7 @@ _type: Blurb
 **Εργαστήριο "Πυθαγόρας 1" / 17:00 -- 19:00**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/998b29c2-321f-4979-a830-6232bb277223.jpg)
 
-## **ScratchJr\***
+## 2\.**Introduction to Scratch Jr\***
 
 **18 -- 19 - 20 Απριλίου 2017 / Τρίτη - Τετάρτη -- Πέμπτη**
 
