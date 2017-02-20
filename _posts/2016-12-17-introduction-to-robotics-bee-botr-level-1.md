@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: 'Συμμετοχή: 50 € / Σύνολο 6 ώρες / έως 6 παιδιά - από 5 ετών'
-dateModified: '2017-02-20T00:03:39.791Z'
-datePublished: '2017-02-20T00:03:41.308Z'
+dateModified: '2017-02-20T00:05:36.310Z'
+datePublished: '2017-02-20T00:05:37.072Z'
 title: Πρόγραμμα Εργαστηρίων / Πάσχα 2017!
 author: []
 publisher: {}
