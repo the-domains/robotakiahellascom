@@ -44,6 +44,9 @@ navigation:
   - name: GALLERY
     id: f5398015-5add-4ebe-8120-4fd7219b06c6
     type: content
+  - name: Τι είναι ρομποτική;
+    id: 13188d35-36f5-402c-9d1c-ab08fd3e917d
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a49a115-3bc4-43bd-b763-df295b6a7909.gif
 collections:
@@ -68,19 +71,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3c9457b-9ca1-49ca-a9bd-c0237f253e8f.png
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
