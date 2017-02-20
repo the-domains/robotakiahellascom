@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: 'Συμμετοχή: 50 € / Σύνολο 6 ώρες / έως 6 παιδιά - από 5 ετών'
-dateModified: '2017-02-20T00:02:16.142Z'
-datePublished: '2017-02-20T00:02:16.920Z'
+dateModified: '2017-02-20T00:02:30.453Z'
+datePublished: '2017-02-20T00:02:31.312Z'
 title: Πρόγραμμα Εργαστηρίων / Πάσχα 2017!
 author: []
 publisher: {}
@@ -44,4 +44,4 @@ _type: Blurb
 **Εργαστήριο "Πυθαγόρας 2" / 17:00 -- 19:00**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/68e5e200-2bcf-4553-a106-a23abce49b91.jpg)
 
-**\*ScratchJr **is a collaboration between the DevTech Research Group at Tufts University, the Lifelong Kindergarten Group at the MIT Media Lab, and the Playful Invention Company.
+**\*Scratch Jr **is a collaboration between the DevTech Research Group at Tufts University, the Lifelong Kindergarten Group at the MIT Media Lab, and the Playful Invention Company.
