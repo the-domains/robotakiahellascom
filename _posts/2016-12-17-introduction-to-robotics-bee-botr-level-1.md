@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: 'Συμμετοχή: 50 € / Σύνολο 6 ώρες / έως 6 παιδιά - από 5 ετών'
-dateModified: '2017-02-20T00:36:50.813Z'
-datePublished: '2017-02-20T00:36:52.325Z'
+dateModified: '2017-03-11T22:48:34.821Z'
+datePublished: '2017-03-11T22:48:35.525Z'
 title: Πρόγραμμα Εργαστηρίων / Πάσχα 2017!
 author: []
 publisher: {}
@@ -26,8 +26,8 @@ _type: Blurb
 
 **Πρωινό ή Απογευματινό Εργαστήριο!**
 
-* **Εργαστήριο "Αρχιμήδης 1" / 11:00 -- 13:00**
-* **Εργαστήριο "Πυθαγόρας 1" / 17:00 -- 19:00**
+* **Εργαστήριο "Αρχιμήδης " / 11:00 -- 13:00**
+* **Εργαστήριο "Πυθαγόρας " / 17:30 -- 19:30**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/998b29c2-321f-4979-a830-6232bb277223.jpg)
 
 ## 2\.**Introduction to Scratch Jr\***
@@ -38,8 +38,8 @@ _type: Blurb
 
 **Επιλέξετε Πρωινό ή Απογευματινό Εργαστήριο!**
 
-* **Εργαστήριο "Αρχιμήδης 2" / 11:00 -- 13:00**
-* **Εργαστήριο "Πυθαγόρας 2" / 17:00 -- 19:00**
+* **Εργαστήριο "Αριστοτέλης" / 11:00 -- 13:00**
+* **Εργαστήριο "Θαλής" / 17:30 -- 19:30**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/68e5e200-2bcf-4553-a106-a23abce49b91.jpg)
 
 **\*Scratch Jr **is a collaboration between the DevTech Research Group at Tufts University, the Lifelong Kindergarten Group at the MIT Media Lab, and the Playful Invention Company.
