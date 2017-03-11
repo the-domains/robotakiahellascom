@@ -1,9 +1,9 @@
 ---
 inFeed: false
 description: 'Συμμετοχή: 50 € / Σύνολο 6 ώρες / έως 6 παιδιά - από 5 ετών'
-dateModified: '2017-03-11T22:48:34.821Z'
-datePublished: '2017-03-11T22:48:35.525Z'
-title: Πρόγραμμα Εργαστηρίων / Πάσχα 2017!
+dateModified: '2017-03-11T22:55:30.588Z'
+datePublished: '2017-03-11T22:55:31.991Z'
+title: Πρόγραμμα Εργαστηρίων
 author: []
 publisher: {}
 via: {}
@@ -15,9 +15,11 @@ url: nea-programmata-pasxa-2017/index.html
 _type: Blurb
 
 ---
-## Πρόγραμμα Εργαστηρίων / Πάσχα 2017!
+# Πρόγραμμα Εργαστηρίων
 
-## 1\. **Introduction to Robotics: Bee-Bot**
+# Πάσχα 2017!
+
+## 1\. Introduction to Robotics: Bee-Bot(r)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d669c6b1-d823-4eb7-8d7a-27535a5ab09d.png)
 
 ### 11 -- 12 - 13 Απριλίου 2017 / Τρίτη - Τετάρτη -- Πέμπτη
@@ -30,9 +32,9 @@ _type: Blurb
 * **Εργαστήριο "Πυθαγόρας " / 17:30 -- 19:30**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/998b29c2-321f-4979-a830-6232bb277223.jpg)
 
-## 2\.**Introduction to Scratch Jr\***
+## 2\. Introduction to coding: Scratch Jr\*
 
-**18 -- 19 - 20 Απριλίου 2017 / Τρίτη - Τετάρτη -- Πέμπτη**
+### 18 -- 19 - 20 Απριλίου 2017 / Τρίτη - Τετάρτη -- Πέμπτη
 
 Συμμετοχή: 50 € / Σύνολο 6 ώρες / έως 6 παιδιά - από 5 ετών
 
