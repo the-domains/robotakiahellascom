@@ -4,8 +4,8 @@ description: >-
   Το Scratch Jr* είναι μια εισαγωγική γλώσσα προγραμματισμού, η οποία δίνει την
   δυνατότητα στα μικρά παιδιά να δημιουργήσουν τα δικά τους προσωπικά παιχνίδια
   και να προγραμματίσουν διαδραστικές ιστορίες.
-dateModified: '2017-10-30T18:59:18.522Z'
-datePublished: '2017-10-30T18:59:19.480Z'
+dateModified: '2017-10-30T21:19:17.058Z'
+datePublished: '2017-10-30T21:19:17.869Z'
 title: Εργαστήρια Scratch Jr
 author: []
 publisher: {}
@@ -13,7 +13,7 @@ via: {}
 hasPage: true
 sourcePath: _posts/2017-02-18-ergasthrio-scratchjr.md
 starred: false
-datePublishedOriginal: '2017-10-30T18:58:10.131Z'
+datePublishedOriginal: '2017-10-30T21:19:17.869Z'
 url: ergasthria-scratch-jr/index.html
 _type: Blurb
 
@@ -25,14 +25,12 @@ _type: Blurb
 
 ### Εισαγωγή στο Scratch Jr
 
-**18 - 19 - 20 Απριλίου 2017 / Τρίτη - Τετάρτη - Πέμπτη**
+Συμμετοχή: 50 € / Σύνολο 6 ώρες / για παιδιά - από 5 ετών
 
-Συμμετοχή: 50 € / Σύνολο 6 ώρες / έως 6 παιδιά - από 5 ετών
+**Επιλέξετε Εργαστήριο!**
 
-**Επιλέξετε Πρωινό ή Απογευματινό Εργαστήριο!**
-
-* **Εργαστήριο "Αρχιμήδης 2" / 11:00 -- 13:00**
-* **Εργαστήριο "Πυθαγόρας 2" / 17:00 -- 19:00**
+* **Εργαστήριο "Αρχιμήδης " / 11:00 -- 14:00 Σάββατο, 2 & 9 Δεκεμβρίου 2017**
+* **Εργαστήριο "Πυθαγόρας " / 11:00 -- 14:00 Σάββατο, 3 & 10 Δεκεμβρίου 2017**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bc7aade-3aac-4655-93fa-7cd427f72a7e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b13f9438-af0b-4d0a-96ba-cd8122ac2391.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e405d898-5184-4b08-ac1f-2756c5d46204.jpg)
