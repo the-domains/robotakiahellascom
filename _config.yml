@@ -35,9 +35,6 @@ navigation:
   - name: Εργαστήρια Scratch Jr
     id: ca647bc3-b394-4a2d-b171-e9295a5d5c49
     type: content
-  - name: Πρόγραμμα Εργαστηρίων / Πάσχα 2017!
-    id: d3fbc86f-0eb7-4576-97c0-79f514d17a76
-    type: content
   - name: Γνωρίστε τα ROBOTάκια!
     id: b38e17a1-18fb-4728-a541-0ceb87e7db80
     type: content
