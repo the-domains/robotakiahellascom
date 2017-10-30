@@ -29,9 +29,6 @@ navigation:
   - name: 'Εργαστήρια Bee-Bot®: για παιδιά 4-8 χρόνων'
     id: 4a2ea5c6-93ca-43c0-812e-595affce3bd0
     type: content
-  - name: Εργαστήρια Scratch Jr
-    id: fbb84d10-051b-4b68-b739-4f56ae550689
-    type: content
   - name: “Δημιουργικά Σαββατοκύριακα”
     id: fba7f52f-4d40-4a30-a746-66a9ea62d897
     type: content
