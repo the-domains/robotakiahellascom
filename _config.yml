@@ -44,6 +44,9 @@ navigation:
   - name: GALLERY
     id: f5398015-5add-4ebe-8120-4fd7219b06c6
     type: content
+  - name: Εργαστήρια Scratch Jr
+    id: ca647bc3-b394-4a2d-b171-e9295a5d5c49
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a49a115-3bc4-43bd-b763-df295b6a7909.gif
 collections:
