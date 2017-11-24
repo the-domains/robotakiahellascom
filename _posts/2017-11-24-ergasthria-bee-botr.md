@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-11-24T14:18:12.693Z'
-datePublished: '2017-11-24T14:18:13.606Z'
-title: Εργαστήρια Bee-Bot®
+dateModified: '2017-11-24T14:19:50.178Z'
+datePublished: '2017-11-24T14:19:51.523Z'
+title: Χριστούγεννα 2017
 author: []
 publisher: {}
 via: {}
@@ -13,7 +13,7 @@ datePublishedOriginal: '2017-11-24T14:17:55.548Z'
 _type: Blurb
 
 ---
-### Χριστούγεννα 2017
+# Χριστούγεννα 2017
 
-## Εργαστήρια Bee-Bot(r)
+## Εργαστήρια Bee-Bot(r): για παιδιά 5 - 11 χρόνων
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ac2b041-ce5d-493a-ace9-81b6e4f868f2.png)
