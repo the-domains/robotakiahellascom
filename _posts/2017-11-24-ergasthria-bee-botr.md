@@ -1,16 +1,18 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-11-24T14:47:51.717Z'
-datePublished: '2017-11-24T14:47:52.490Z'
+dateModified: '2017-11-24T14:49:12.585Z'
+datePublished: '2017-11-24T14:49:13.836Z'
 title: Χριστούγεννα 2017
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-11-24-ergasthria-bee-botr.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-11-24T14:17:55.548Z'
-_type: Blurb
+url: xristoygenna-2017/index.html
+_type: Article
 
 ---
 # Χριστούγεννα 2017
