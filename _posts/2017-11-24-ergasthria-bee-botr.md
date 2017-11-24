@@ -1,21 +1,21 @@
 ---
 inFeed: true
-description: "Με τα\_“Bee-Bots” της Robotάκια Hellas, τα παιδιά θα γνωρίσουν, θα χειριστούν, και θα προγραμματίσουν πραγματικά ρομπότ."
-dateModified: '2017-11-24T15:03:37.248Z'
-datePublished: '2017-11-24T15:03:38.256Z'
-title: Χριστούγεννα με τα Bee-Bot®
+description: >-
+  Με τα “Bee-Bots” της Robotάκια Hellas, τα παιδιά θα γνωρίσουν, θα χειριστούν,
+  και θα προγραμματίσουν πραγματικά ρομπότ.
+dateModified: '2017-11-24T15:05:11.594Z'
+datePublished: '2017-11-24T15:05:12.534Z'
+title: 'Χριστούγεννα με τα Bee-Bot®:'
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-11-24-ergasthria-bee-botr.md
-hasPage: true
 starred: false
 datePublishedOriginal: '2017-11-24T14:17:55.548Z'
-url: xristoygenna-me-ta-bee-botr/index.html
-_type: Article
+_type: Blurb
 
 ---
-# Χριστούγεννα με τα Bee-Bot(r)
+# Χριστούγεννα με τα Bee-Bot(r):
 
 # Εισαγωγή στην Ρομποτική
 
@@ -28,6 +28,7 @@ _type: Article
 
 * **Εργαστήριο "Αριστοτέλης - επίπεδο 1" / 11:00 -- 13:00**
 * **27 - 28 - 29 Δεκεμβρίου 2017**
+
 * **Εργαστήριο "Αριστοτέλης - επίπεδο 2" / 11:00 -- 13:00**
 * **03 - 04 - 05 Ιανουαρίου 2018**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fced9fbe-a475-4358-a177-1a749198965e.png)
