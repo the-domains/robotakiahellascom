@@ -1,25 +1,23 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-11-24T14:49:12.585Z'
-datePublished: '2017-11-24T14:49:13.836Z'
-title: Χριστούγεννα 2017
+dateModified: '2017-11-24T14:50:54.280Z'
+datePublished: '2017-11-24T14:50:55.354Z'
+title: 'Χριστούγεννα με τα Bee-Bot® '
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-11-24-ergasthria-bee-botr.md
-hasPage: true
 starred: false
 datePublishedOriginal: '2017-11-24T14:17:55.548Z'
-url: xristoygenna-2017/index.html
-_type: Article
+_type: Blurb
 
 ---
-# Χριστούγεννα 2017
+# Χριστούγεννα με τα Bee-Bot(r) 
 
 # Εισαγωγή στην Ρομποτική
 
-## Εργαστήρια Bee-Bot(r): για παιδιά 5 - 11 χρόνων
+## Εργαστήρια για παιδιά 5 - 11 χρόνων
 
 ### Συμμετοχή: 60 € / Σύνολο 6 ώρες / για παιδιά από 5 ετών
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ac2b041-ce5d-493a-ace9-81b6e4f868f2.png)
