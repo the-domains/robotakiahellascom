@@ -29,9 +29,6 @@ navigation:
   - name: 'Εργαστήρια Bee-Bot®: για παιδιά 4-8 χρόνων'
     id: 4a2ea5c6-93ca-43c0-812e-595affce3bd0
     type: content
-  - name: Χριστούγεννα με τα Bee-Bot®  Εισαγωγή στην Ρομποτική
-    id: cfd23ea6-f2ec-46b8-a1aa-4a3230b24eb7
-    type: content
   - name: Χειμερινά Εργαστήρια  Scratch Jr  2017
     id: ca647bc3-b394-4a2d-b171-e9295a5d5c49
     type: content
