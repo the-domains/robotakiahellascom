@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-11-25T23:27:32.685Z'
-datePublished: '2017-11-25T23:27:33.617Z'
+dateModified: '2017-11-25T23:28:16.667Z'
+datePublished: '2017-11-25T23:28:17.461Z'
 title: 'Χριστούγεννα με τα Bee-Bot®:'
 author: []
 publisher: {}
@@ -35,7 +35,7 @@ _type: Article
 * **03 - 04 - 05 Ιανουαρίου 2018**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fced9fbe-a475-4358-a177-1a749198965e.png)
 
-# Χριστούγεννα με τα Bee-Bot(r):
+# Χριστούγεννα με τα Bee-Bot(r)...
 
 ---
 
