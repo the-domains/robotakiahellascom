@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-11-25T23:23:51.719Z'
-datePublished: '2017-11-25T23:23:52.657Z'
+dateModified: '2017-11-25T23:26:05.981Z'
+datePublished: '2017-11-25T23:26:06.611Z'
 title: 'Χριστούγεννα με τα Bee-Bot®:'
 author: []
 publisher: {}
@@ -54,3 +54,7 @@ _type: Article
 Το πρόγραμμα των εργαστηρίων **Bee-Bots**(r): **Introduction to Robotics **της "Robotάκια Hellas" ακολουθεί τις υποδείξεις της **Bee-Bot(r)** και την στοχοθεσία των Επίσημων Αναλυτικών Προγραμμάτων του Ηνωμένου Βασιλείου & των ΗΠΑ.
 
 Tα παιδιά αποκτούν Βεβαίωση για την Συμμετοχή τους στο εργαστήριο αυτό.
+
+Καλές Γιορτές!
+
+**Robotάκια Hellas**
