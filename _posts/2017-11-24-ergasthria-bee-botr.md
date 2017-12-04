@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-12-04T14:49:38.612Z'
-datePublished: '2017-12-04T14:49:39.221Z'
+dateModified: '2017-12-04T14:51:18.035Z'
+datePublished: '2017-12-04T14:51:19.124Z'
 title: 'Χριστούγεννα με τα Bee-Bot®:'
 author: []
 publisher: {}
@@ -20,8 +20,6 @@ _type: Article
 # Εισαγωγή στην Ρομποτική
 
 ## Εργαστήρια για παιδιά 5 - 11 χρόνων
-
-### Συμμετοχή: 60 € / εργαστήριο
 
 ### Σύνολο 6 ώρες / εργαστήριο
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ac2b041-ce5d-493a-ace9-81b6e4f868f2.png)
