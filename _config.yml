@@ -22,6 +22,10 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8722394b-fd91-4b5d-8ec9-6e76cfb8b0b9.gif
 name: robotakiahellas.com
 url: 'http://robotakiahellas.com'
+navigation:
+  - name: Εκπαιδευτική Ρομποτική
+    id: fba7f52f-4d40-4a30-a746-66a9ea62d897
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a49a115-3bc4-43bd-b763-df295b6a7909.gif
 collections:
