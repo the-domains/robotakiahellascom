@@ -32,9 +32,6 @@ navigation:
   - name: 'Χριστούγεννα με τα Bee-Bot®:  Εισαγωγή στην Ρομποτική'
     id: cfd23ea6-f2ec-46b8-a1aa-4a3230b24eb7
     type: content
-  - name: “Δημιουργικά Σαββατοκύριακα”
-    id: fba7f52f-4d40-4a30-a746-66a9ea62d897
-    type: content
   - name: Γνωρίστε τα ROBOTάκια!
     id: b38e17a1-18fb-4728-a541-0ceb87e7db80
     type: content
