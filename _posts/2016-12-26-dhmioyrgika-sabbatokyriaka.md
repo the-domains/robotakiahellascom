@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2018-12-16T18:23:10.743Z'
-datePublished: '2018-12-16T18:23:11.782Z'
+dateModified: '2018-12-16T18:24:55.700Z'
+datePublished: '2018-12-16T18:24:56.942Z'
 title: “Δημιουργικά Σαββατοκύριακα”
 author: []
 publisher: {}
@@ -21,6 +21,8 @@ _type: Blurb
 
 ## με τα ROBOTάκια Hellas!
 
+### για Παιδιά από 4- 10 ετών
+
 ---
 
 Αγαπητά παιδιά!
@@ -35,5 +37,3 @@ _type: Blurb
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd9e50b3-b915-462e-8fd2-a56936ffd6f1.png)
 
 ## Δηλώσεις Συμμετοχής: 229911 21 71
-
-## e-mail: hellasrobotakia@gmail.com
