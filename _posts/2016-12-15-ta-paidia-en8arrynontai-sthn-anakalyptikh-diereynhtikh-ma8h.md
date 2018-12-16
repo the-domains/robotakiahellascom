@@ -5,18 +5,19 @@ description: >-
   λύσουν προβλήματα του πραγματικού κόσμου, με δραστηριότητες έρευνας που
   βασίζoνται α) στον άμεσο πειραματισμό, στην δοκιμασία σωστού ή λάθους, στην
   δημιουργική σκέψη και στην επίλυση προβλημάτων.
-dateModified: '2018-12-16T19:06:44.412Z'
-datePublished: '2018-12-16T19:06:45.069Z'
+dateModified: '2018-12-16T19:10:58.743Z'
+datePublished: '2018-12-16T19:10:59.580Z'
 title: Επιστημονική Γνώση
 author: []
 publisher: {}
 via: {}
-hasPage: false
+hasPage: true
 sourcePath: >-
   _posts/2016-12-15-ta-paidia-en8arrynontai-sthn-anakalyptikh-diereynhtikh-ma8h.md
 starred: false
 datePublishedOriginal: '2017-02-18T00:12:12.512Z'
-_type: Blurb
+url: episthmonikh-gnwsh/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc05246a-1b10-4975-a655-357bc67fe84d.jpg)
