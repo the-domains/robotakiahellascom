@@ -38,6 +38,9 @@ navigation:
   - name: Εργαστήρια Bee-Bot®
     id: 4a2ea5c6-93ca-43c0-812e-595affce3bd0
     type: content
+  - name: Γνωρίστε τα ROBOTάκια μας!
+    id: b38e17a1-18fb-4728-a541-0ceb87e7db80
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a49a115-3bc4-43bd-b763-df295b6a7909.gif
 collections:
