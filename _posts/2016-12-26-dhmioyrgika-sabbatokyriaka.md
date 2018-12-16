@@ -1,8 +1,8 @@
 ---
 inFeed: false
-description: ''
-dateModified: '2018-12-16T18:24:55.700Z'
-datePublished: '2018-12-16T18:24:56.942Z'
+description: 'Εγραφές: 16 -17-18 Ιανουαρίου 2019'
+dateModified: '2018-12-16T18:28:27.030Z'
+datePublished: '2018-12-16T18:28:28.809Z'
 title: “Δημιουργικά Σαββατοκύριακα”
 author: []
 publisher: {}
@@ -22,6 +22,8 @@ _type: Blurb
 ## με τα ROBOTάκια Hellas!
 
 ### για Παιδιά από 4- 10 ετών
+
+Εγραφές: 16 -17-18 Ιανουαρίου 2019
 
 ---
 
