@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: 'Εγραφές: 16 -17-18 Ιανουαρίου 2019'
-dateModified: '2018-12-16T18:28:27.030Z'
-datePublished: '2018-12-16T18:28:28.809Z'
+dateModified: '2018-12-16T18:29:07.848Z'
+datePublished: '2018-12-16T18:29:08.775Z'
 title: “Δημιουργικά Σαββατοκύριακα”
 author: []
 publisher: {}
@@ -33,7 +33,7 @@ _type: Blurb
 
 "Δημιουργικά Σαββατοκύριακα" με τα ROBOTάκια Hellas!
 
-Εργαστήρια Πρωινής ζώνης - 11:00 - 13:00
+Εργαστήρια Πρωινής ζώνης - 11:00 - 13:00 
 
 Εργαστήρια Απογευματινής ζώνης - 17:00 - 19:00
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd9e50b3-b915-462e-8fd2-a56936ffd6f1.png)
