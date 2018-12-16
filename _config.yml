@@ -56,7 +56,81 @@ collections:
       format: rss
       number: 10
 title: ROBOTάκια   HELLAS
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FPmqWjOcNw8k%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DPmqWjOcNw8k&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FPmqWjOcNw8k%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen="true"></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      author:
+        - name: Robo Wunderkind
+          url: 'https://www.youtube.com/channel/UCIdr8baf1aeALXTyQumYIaQ'
+          avatar: {}
+      related: []
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico'
+        domain: youtu.be
+      keywords:
+        - ''
+      description: >-
+        First steps to do while getting to know your Robo Wunderkind kit. If you
+        need further help with the firmware update, please see this:
+        http://www.robowunderkind.com/firmware-update Find the help on getting
+        started on our website: http://www.robowunderkind.com/getting-started/
+        Find our apps in the Apple App Store and Google Play Store: Robo Code
+        and Robo Live.
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      '@type': VideoObject
+      app_links:
+        - url: 'vnd.youtube://www.youtube.com/watch?v=PmqWjOcNw8k&feature=applinks'
+          type: ios
+          namespace: ai
+          app_store_id: '544007664'
+          app_name: YouTube
+        - url: 'vnd.youtube://www.youtube.com/watch?v=PmqWjOcNw8k&feature=applinks'
+          type: android
+          namespace: ai
+          app_name: YouTube
+          package: com.google.android.youtube
+        - url: 'https://www.youtube.com/watch?v=PmqWjOcNw8k&feature=applinks'
+          type: web
+          namespace: ai
+        - url: 'vnd.youtube://www.youtube.com/watch?v=PmqWjOcNw8k&feature=applinks'
+          namespace: twitter
+          type: ipad
+          name: YouTube
+          id: '544007664'
+        - url: 'vnd.youtube://www.youtube.com/watch?v=PmqWjOcNw8k&feature=applinks'
+          namespace: twitter
+          type: iphone
+          name: YouTube
+          id: '544007664'
+        - url: 'https://www.youtube.com/watch?v=PmqWjOcNw8k'
+          namespace: twitter
+          type: googleplay
+          name: YouTube
+          id: com.google.android.youtube
+        - path: http/www.youtube.com/watch?v=PmqWjOcNw8k
+          package: com.google.android.youtube
+          namespace: google
+          type: android
+        - path: vnd.youtube/www.youtube.com/watch?v=PmqWjOcNw8k
+          package: '544007664'
+          namespace: google
+          type: ios
+      '@context': 'http://schema.org'
+      isBasedOnUrl: 'https://youtu.be/PmqWjOcNw8k'
+      title: Getting started with Robo Wunderkind
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: Early Learning Robotics
 purpose:
   - type: contact
