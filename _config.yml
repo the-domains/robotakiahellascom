@@ -29,9 +29,6 @@ navigation:
   - name: Εργαστήρια Bee-Bot®  για παιδιά  5 - 11 χρόνων
     id: 4a2ea5c6-93ca-43c0-812e-595affce3bd0
     type: content
-  - name: 'Χριστούγεννα με τα Bee-Bot®:  Εισαγωγή στην Ρομποτική'
-    id: cfd23ea6-f2ec-46b8-a1aa-4a3230b24eb7
-    type: content
   - name: Γνωρίστε τα ROBOTάκια!
     id: b38e17a1-18fb-4728-a541-0ceb87e7db80
     type: content
