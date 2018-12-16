@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2018-12-16T18:55:14.477Z'
-datePublished: '2018-12-16T18:55:15.827Z'
+dateModified: '2018-12-16T18:55:34.673Z'
+datePublished: '2018-12-16T18:55:35.915Z'
 title: Εκπαιδευτική Ρομποτική
 author: []
 publisher: {}
@@ -16,7 +16,7 @@ _type: Blurb
 
 ---
 # Εκπαιδευτική Ρομποτική
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef11b59a-aa82-4cce-9ddf-843e606f3f6f.png)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6d48954f077d99f46616a0e27be797d3/croprotate.png?cropheight=208&cropwidth=927&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fef11b59a-aa82-4cce-9ddf-843e606f3f6f.png&x=0&y=21)
 
 ## Εργαστήρια Εκπαιδευτικής Ρομποτικής με τα ROBOTάκια Hellas!
 
