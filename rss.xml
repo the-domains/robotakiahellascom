@@ -4,9 +4,9 @@
         <description><![CDATA[ROBOTάκια   HELLAS]]></description>
         <link>http://robotakiahellas.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 16 Dec 2018 19:24:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Dec 2018 19:24:49 GMT</lastBuildDate>
         <atom:link href="http://robotakiahellas.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 16 Dec 2018 19:24:31 GMT</pubDate>
+        <pubDate>Sun, 16 Dec 2018 19:24:47 GMT</pubDate>
         <item>
             <title><![CDATA[Τι είναι Ρομποτική;]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3890032-a18a-4d56-9e96-3552caf56db5.jpg">,<h1>Τι είναι Ρομποτική;</h1>,<p>Η Ρομποτική είναι ο κλάδος της επιστήμης που μελετά τις μηχανές εκείνες που μπορούν να αντικαταστήσουν τον άνθρωπο στην εκτέλεση μιας εργασίας, η οποία συνδυάζει τη φυσική δραστηριότητα, με τη διαδικασία λήψης αποφάσεων.</p>,<p>Η τρέχουσα χρήση των ρομπότ βρίσκεται στη βιομηχανία, η οποία αποτελεί έναν αναπτυγμένο και ώριμο τομέα εφαρμογής της ρομποτικής τεχνολογίας. Σημαντικοί τομείς εφαρμογής της ρομποτικής τεχνολογίας είναι η εξερεύνηση του διαστήματος, η ιατρική, οι αγροτικές εφαρμογές, η έρευνα και διάσωση, κ.ά.</p>]]></description>
@@ -34,6 +34,13 @@
             <link>http://robotakiahellas.com/ergasthria-bee-botr-gia-paidia-4-8-xronwn/index.html</link>
             <guid isPermaLink="false">4a2ea5c6-93ca-43c0-812e-595affce3bd0</guid>
             <pubDate>Sat, 18 Feb 2017 00:12:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Γνωρίστε τα ROBOTάκια μας!]]></title>
+            <description><![CDATA[<h1>Γνωρίστε τα ROBOTάκια μας!</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/594c6326-5c14-47c0-8a5a-913012448aae.png" title="Colby&reg;">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/41678761-e0ab-4206-aaac-8d01adfd9ff0.png" title="BeeBot&reg;">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fbf29939-00a6-4361-b8a8-333798ac80d2.gif" title="Edison&reg;">,<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/141564a1c37f8820adcaeaabbed4540ec4444c03.png" title="Robo Wunderkind&reg;">]]></description>
+            <link>http://robotakiahellas.com/gnwriste-ta-robotakia/index.html</link>
+            <guid isPermaLink="false">b38e17a1-18fb-4728-a541-0ceb87e7db80</guid>
+            <pubDate>Fri, 17 Feb 2017 23:17:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
