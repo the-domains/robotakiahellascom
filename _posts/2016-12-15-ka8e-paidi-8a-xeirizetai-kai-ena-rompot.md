@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   Τα Bee-Bot® είναι βραβευμένα, προγραμματιζόμενα ρομπότ εδάφους, ιδανικά για
   μικρά παιδιά, αγόρια και κορίτσια. Η Εισαγωγή στην Ρομποτική και η διδασκαλία
   προγραμματισμού, μέσω αυτών των μικρών ρομπότ, προσφέρει: ατελείωτες ώρες
   δημιουργικής μάθησης και παιχνιδιού.
-dateModified: '2018-12-16T19:24:28.984Z'
-datePublished: '2018-12-16T19:24:30.347Z'
+dateModified: '2018-12-16T23:41:16.333Z'
+datePublished: '2018-12-16T23:41:17.385Z'
 title: Εργαστήρια Bee-Bot®
 author: []
 publisher: {}
@@ -16,7 +16,7 @@ sourcePath: _posts/2016-12-15-ka8e-paidi-8a-xeirizetai-kai-ena-rompot.md
 starred: false
 datePublishedOriginal: '2017-02-18T00:12:44.959Z'
 url: ergasthria-bee-botr-gia-paidia-4-8-xronwn/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Εργαστήρια Bee-Bot(r)
