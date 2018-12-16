@@ -56,31 +56,7 @@ collections:
       format: rss
       number: 10
 title: ROBOTάκια   HELLAS
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3c9457b-9ca1-49ca-a9bd-c0237f253e8f.png">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3c9457b-9ca1-49ca-a9bd-c0237f253e8f.png
-    metadata:
-      datePublished: null
-      keywords: []
-      related: []
-      author: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      app_links: []
-      publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        favicon: null
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      description: ''
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 description: Early Learning Robotics
 purpose:
   - type: contact
