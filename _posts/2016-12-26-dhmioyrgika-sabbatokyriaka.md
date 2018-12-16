@@ -1,9 +1,9 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2018-12-16T18:29:32.986Z'
-datePublished: '2018-12-16T18:29:35.626Z'
-title: “Δημιουργικά Σαββατοκύριακα”
+dateModified: '2018-12-16T18:30:58.048Z'
+datePublished: '2018-12-16T18:31:00.036Z'
+title: “Εργαστήρια Εκπαιδευτικής Ρομποτικής”
 author: []
 publisher: {}
 via: {}
@@ -17,7 +17,7 @@ _type: Blurb
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9fb82eb0-897f-4dbd-b80a-61bdd30c843e.png)
 
-# "Δημιουργικά Σαββατοκύριακα"
+# "Εργαστήρια Εκπαιδευτικής Ρομποτικής"
 
 ## με τα ROBOTάκια Hellas!
 
@@ -33,7 +33,7 @@ _type: Blurb
 
 "Δημιουργικά Σαββατοκύριακα" με τα ROBOTάκια Hellas!
 
-Εργαστήρια Πρωινής ζώνης - 11:00 - 13:00 
+Εργαστήρια Πρωινής ζώνης - 11:00 - 13:00
 
 Εργαστήρια Απογευματινής ζώνης - 17:00 - 19:00
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd9e50b3-b915-462e-8fd2-a56936ffd6f1.png)
