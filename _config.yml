@@ -41,6 +41,9 @@ navigation:
   - name: Γνωρίστε τα ROBOTάκια μας!
     id: b38e17a1-18fb-4728-a541-0ceb87e7db80
     type: content
+  - name: Επικοινωνία
+    id: 1b4f4339-bc8e-45b3-a285-a9079940d2fc
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a49a115-3bc4-43bd-b763-df295b6a7909.gif
 collections:
@@ -66,26 +69,17 @@ content:
       allowfullscreen="true"></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
+      datePublished: null
+      isBasedOnUrl: 'https://youtu.be/PmqWjOcNw8k'
+      keywords:
+        - ''
+      related: []
       author:
         - name: Robo Wunderkind
           url: 'https://www.youtube.com/channel/UCIdr8baf1aeALXTyQumYIaQ'
           avatar: {}
-      related: []
-      publisher:
-        url: 'https://www.youtube.com/'
-        name: YouTube
-        favicon: 'https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico'
-        domain: youtu.be
-      keywords:
-        - ''
-      description: >-
-        First steps to do while getting to know your Robo Wunderkind kit. If you
-        need further help with the firmware update, please see this:
-        http://www.robowunderkind.com/firmware-update Find the help on getting
-        started on our website: http://www.robowunderkind.com/getting-started/
-        Find our apps in the Apple App Store and Google Play Store: Robo Code
-        and Robo Live.
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      '@context': 'http://schema.org'
+      title: Getting started with Robo Wunderkind
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=PmqWjOcNw8k&feature=applinks'
@@ -124,10 +118,18 @@ content:
           package: '544007664'
           namespace: google
           type: ios
-      '@context': 'http://schema.org'
-      isBasedOnUrl: 'https://youtu.be/PmqWjOcNw8k'
-      title: Getting started with Robo Wunderkind
-      datePublished: null
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico'
+        domain: youtu.be
+      description: >-
+        First steps to do while getting to know your Robo Wunderkind kit. If you
+        need further help with the firmware update, please see this:
+        http://www.robowunderkind.com/firmware-update Find the help on getting
+        started on our website: http://www.robowunderkind.com/getting-started/
+        Find our apps in the Apple App Store and Google Play Store: Robo Code
+        and Robo Live.
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
