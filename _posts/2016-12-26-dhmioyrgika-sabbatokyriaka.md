@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2018-12-16T23:50:23.909Z'
-datePublished: '2018-12-16T23:50:24.793Z'
+dateModified: '2018-12-16T23:53:03.655Z'
+datePublished: '2018-12-16T23:53:04.499Z'
 title: Εκπαιδευτική Ρομποτική
 author: []
 publisher: {}
@@ -18,7 +18,9 @@ _type: Blurb
 # Εκπαιδευτική Ρομποτική
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a1fbd1019ab5eeae713f11cc79f48b66508b95c.png)
 
-## Χειμερινά Εργαστήρια Εκπαιδευτικής Ρομποτικής με τα ROBOTάκια Hellas!
+## Χειμερινά Εργαστήρια 
+
+## Εκπαιδευτική Ρομποτική με τα ROBOTάκια Hellas!
 
 ### Εγγραφές: 16 - 17 - 18 Ιανουαρίου 2019 (Παιδιά από 4 - 11 ετών)
 
