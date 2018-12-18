@@ -1,9 +1,9 @@
 ---
 inFeed: false
 description: Εκπαιδευτική Ρομποτική με τα ROBOTάκια Hellas!
-dateModified: '2018-12-18T08:54:18.333Z'
-datePublished: '2018-12-18T08:54:19.921Z'
-title: Εκπαιδευτική Ρομποτική -Χειμερινά Εργαστήρια
+dateModified: '2018-12-18T08:54:50.296Z'
+datePublished: '2018-12-18T08:54:51.083Z'
+title: Εκπαιδευτική Ρομποτική - Χειμερινά Εργαστήρια
 author: []
 publisher: {}
 via: {}
@@ -15,7 +15,7 @@ url: dhmioyrgika-sabbatokyriaka/index.html
 _type: Blurb
 
 ---
-# Εκπαιδευτική Ρομποτική -Χειμερινά Εργαστήρια
+# Εκπαιδευτική Ρομποτική - Χειμερινά Εργαστήρια
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a1fbd1019ab5eeae713f11cc79f48b66508b95c.png)
 
 **Εκπαιδευτική Ρομποτική με τα ROBOTάκια Hellas!**
