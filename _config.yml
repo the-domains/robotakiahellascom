@@ -23,7 +23,7 @@ logo: >-
 name: robotakiahellas.com
 url: 'http://robotakiahellas.com'
 navigation:
-  - name: Εκπαιδευτική Ρομποτική   Χειμερινά Εργαστήρια
+  - name: Εκπαιδευτική Ρομποτική  / Χειμερινά Εργαστήρια
     id: fba7f52f-4d40-4a30-a746-66a9ea62d897
     type: content
   - name: Τι είναι Ρομποτική;
